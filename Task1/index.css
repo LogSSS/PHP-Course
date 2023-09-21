@@ -1,0 +1,38 @@
+html{
+    background-color: #b8c5ff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.labels{
+    margin: 0 5px 0 5px;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+}
+
+.submit{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.submit > *{
+    margin: 0 10px 0 10px;
+}
+
+.submit h3{
+    margin: 0;
+}
+
+.formBruh {
+  border: 1px solid black;
+  padding: 2px;
+  margin: 10px 5px 10px 5px;
+}
