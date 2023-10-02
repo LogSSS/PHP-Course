@@ -1,0 +1,5 @@
+Name|Price|Count
+-------------------
+Product1|10|100
+Product2|20|50
+Product3|15|75
