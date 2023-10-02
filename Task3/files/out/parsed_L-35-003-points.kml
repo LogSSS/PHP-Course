@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <Point>
+        <coordinates>25.031869,47.766757</coordinates>
+      </Point>
+      <name>1539</name>
+      <cmt> &#x41A;&#x440;&#x438;&#x43D;&#x438;&#x447;&#x43A;&#x430; &#x437; &#x432;&#x43E;&#x434;&#x43E;&#x44E; &#x43F;&#x440;&#x438; &#x433;&#x43E;&#x441;&#x43F;&#x43E;&#x434;&#x430;&#x440;&#x441;&#x44C;&#x43A;&#x456;&#x439; &#x441;&#x43F;&#x43E;&#x440;&#x443;&#x434;&#x456;</cmt>
+      <styleUrl>some_style</styleUrl>
+      <ExtendedData>
+        <Data name="Link">
+          <value>http://www.karpaty.com.ua/gps/data/1539.html</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>25.031347,47.75847</coordinates>
+      </Point>
+      <name>1540</name>
+      <cmt> &#x41F;. C&#x435;&#x43C;&#x435;&#x43D;&#x447;&#x443;&#x43A;. &#x415;&#x43B;&#x435;&#x43A;&#x442;&#x440;&#x438;&#x444;&#x456;&#x43A;&#x43E;&#x432;&#x430;&#x43D;&#x430; &#x43A;&#x43E;&#x43B;&#x438;&#x431;&#x430;</cmt>
+      <styleUrl>some_style</styleUrl>
+      <ExtendedData>
+        <Data name="Link">
+          <value>http://www.karpaty.com.ua/gps/data/1540.html</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>25.19399,47.863905</coordinates>
+      </Point>
+      <name>1541</name>
+      <cmt> &#x417;&#x432;&#x456;&#x440;&#x438;&#x43D;&#x435;&#x446;&#x44C; &#x443; &#x441;. C&#x435;&#x43B;&#x44F;&#x442;&#x438;&#x43D;. &#x412;&#x435;&#x434;&#x43C;&#x435;&#x434;&#x456;, &#x43E;&#x43B;&#x435;&#x43D;&#x44C;, &#x432;&#x43E;&#x432;&#x43A;, &#x43B;&#x438;&#x441;&#x438;&#x446;&#x44F;, &#x437;&#x430;&#x454;&#x446;&#x44C;...</cmt>
+      <styleUrl>some_style</styleUrl>
+      <ExtendedData>
+        <Data name="Link">
+          <value>http://www.karpaty.com.ua/gps/data/1541.html</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>25.081777,47.746465</coordinates>
+      </Point>
+      <name>1543</name>
+      <cmt> C&#x442;&#x440;&#x443;&#x43C;&#x43E;&#x43A;, &#x43F;. &#x41E;&#x43B;&#x435;&#x43D;&#x456;&#x432;</cmt>
+      <styleUrl>some_style</styleUrl>
+      <ExtendedData>
+        <Data name="Link">
+          <value>http://www.karpaty.com.ua/gps/data/1543.html</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>25.067227,47.743213</coordinates>
+      </Point>
+      <name>1544</name>
+      <cmt> &#x41C;&#x456;&#x441;&#x442;&#x43E;&#x43A; &#x447;&#x435;&#x440;&#x435;&#x437; &#x43F;. &#x41E;&#x43B;&#x435;&#x43D;&#x456;&#x432;</cmt>
+      <styleUrl>some_style</styleUrl>
+      <ExtendedData>
+        <Data name="Link">
+          <value>http://www.karpaty.com.ua/gps/data/1544.html</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <Point>
+        <coordinates>25.033465,47.764625</coordinates>
+      </Point>
+      <name>1545</name>
+      <cmt> &#x41D;&#x430;&#x439;&#x431;&#x456;&#x43B;&#x44C;&#x448;&#x438;&#x439; &#x437; &#x43A;&#x443;&#x43F;&#x43E;&#x43B;&#x456;&#x432; &#x420;&#x41B;C &#x41F;&#x430;&#x43C;&#x456;&#x440;</cmt>
+      <styleUrl>some_style</styleUrl>
+      <ExtendedData>
+        <Data name="Link">
+          <value>http://www.karpaty.com.ua/gps/data/1545.html</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

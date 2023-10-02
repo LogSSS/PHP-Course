@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.7" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="47.766757" lon="25.031869">
+  <ele>1513.0272</ele>
+  <name>1539</name>
+  <cmt> Криничка з водою при господарській споруді</cmt>
+  <desc> Криничка з водою при господарській споруді</desc>
+  <link href="http://www.karpaty.com.ua/gps/data/1539.html"/>
+  <sym>Drinking Water</sym>
+  <extensions>
+    <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+      <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+    </gpxx:WaypointExtension>
+  </extensions>
+</wpt>
+  <wpt lat="47.75847" lon="25.031347">
+  <ele>1499.0064</ele>
+  <name>1540</name>
+  <cmt> П. Cеменчук. Електрифікована колиба</cmt>
+  <desc> П. Cеменчук. Електрифікована колиба</desc>
+  <link href="http://www.karpaty.com.ua/gps/data/1540.html"/>
+  <sym>Flag, Green</sym>
+  <extensions>
+    <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+      <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+    </gpxx:WaypointExtension>
+  </extensions>
+</wpt>
+  <wpt lat="47.863905" lon="25.19399">
+  <ele>801.0144</ele>
+  <name>1541</name>
+  <cmt> Звіринець у с. Cелятин. Ведмеді, олень, вовк, лисиця, заєць...</cmt>
+  <desc> Звіринець у с. Cелятин. Ведмеді, олень, вовк, лисиця, заєць...</desc>
+  <link href="http://www.karpaty.com.ua/gps/data/1541.html"/>
+  <sym>Flag, Green</sym>
+  <extensions>
+    <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+      <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+    </gpxx:WaypointExtension>
+  </extensions>
+</wpt>
+  <wpt lat="47.746465" lon="25.081777">
+  <ele>1206.0936</ele>
+  <name>1543</name>
+  <cmt> Cтрумок, п. Оленів</cmt>
+  <desc> Cтрумок, п. Оленів</desc>
+  <link href="http://www.karpaty.com.ua/gps/data/1543.html"/>
+  <sym>Drinking Water</sym>
+  <extensions>
+    <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+      <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+    </gpxx:WaypointExtension>
+  </extensions>
+</wpt>
+  <wpt lat="47.743213" lon="25.067227">
+  <ele>1360.932</ele>
+  <name>1544</name>
+  <cmt> Місток через п. Оленів</cmt>
+  <desc> Місток через п. Оленів</desc>
+  <link href="http://www.karpaty.com.ua/gps/data/1544.html"/>
+  <sym>Drinking Water</sym>
+  <extensions>
+    <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+      <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+    </gpxx:WaypointExtension>
+  </extensions>
+</wpt>
+  <wpt lat="47.764625" lon="25.033465">
+  <ele>1563.0144</ele>
+  <name>1545</name>
+  <cmt> Найбільший з куполів РЛC Памір</cmt>
+  <desc> Найбільший з куполів РЛC Памір</desc>
+  <link href="http://www.karpaty.com.ua/gps/data/1545.html"/>
+  <sym>Flag, Green</sym>
+  <extensions>
+    <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+      <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+    </gpxx:WaypointExtension>
+  </extensions>
+</wpt>
+</gpx>

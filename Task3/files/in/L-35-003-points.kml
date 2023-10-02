@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+	<Style id="green">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="blue">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Українські Карпати - Блуд</name>
+		<Folder>
+			<name>L-35-003</name>
+			<Placemark>
+				<name> Криничка з водою при господарській споруді</name>
+				<description>http://www.karpaty.com.ua/gps/data/1539.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>25.031869,47.766757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> П. Cеменчук. Електрифікована колиба</name>
+				<description>http://www.karpaty.com.ua/gps/data/1540.html</description>
+				<styleUrl>#green</styleUrl>
+				<Point>
+					<coordinates>25.031347,47.75847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Звіринець у с. Cелятин. Ведмеді, олень, вовк, лисиця, заєць...</name>
+				<description>http://www.karpaty.com.ua/gps/data/1541.html</description>
+				<styleUrl>#green</styleUrl>
+				<Point>
+					<coordinates>25.19399,47.863905,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Cтрумок, п. Оленів</name>
+				<description>http://www.karpaty.com.ua/gps/data/1543.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>25.081777,47.746465,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Місток через п. Оленів</name>
+				<description>http://www.karpaty.com.ua/gps/data/1544.html</description>
+				<styleUrl>#blue</styleUrl>
+				<Point>
+					<coordinates>25.067227,47.743213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> Найбільший з куполів РЛC Памір</name>
+				<description>http://www.karpaty.com.ua/gps/data/1545.html</description>
+				<styleUrl>#green</styleUrl>
+				<Point>
+					<coordinates>25.033465,47.764625,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

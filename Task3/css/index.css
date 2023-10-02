@@ -1,0 +1,45 @@
+.upload-container {
+  border: 2px dashed #000;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #b8c3f6;
+}
+
+.upload-container.active {
+  border-color: #10108a;
+  background-color: #919bb8;
+}
+
+.upload-container p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.upload-container h2 {
+  margin-bottom: 20px;
+}
+
+.upload-input {
+  display: none;
+}
+
+.upload-label,
+.drop-label {
+  background-color: #5623cc;
+  color: #fff;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  display: inline-block;
+  margin: 10px 0 30px 0;
+}
+
+.upload-label:hover,
+.drop-label:hover {
+  background-color: #0d098f;
+}
+
+.file-name {
+  font-size: 14px;
+}
