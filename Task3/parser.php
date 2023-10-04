@@ -1,4 +1,7 @@
 <?php
+
+error_reporting(E_ERROR | E_PARSE);
+
 class Parser
 {
 
@@ -59,7 +62,12 @@ class Parser
 
     private function getXML()
     {
-        $xml = simplexml_load_string((file_get_contents($_FILES['file']['tmp_name']))) or die("Can't create object");
+        $xml = simplexml_load_string(file_get_contents($_FILES['file']['tmp_name']));
+        if ($xml === false) {
+            $this->message = 'Error: Unable to parse file';
+            $this->goBackHtml();
+            exit();
+        }
         return $xml;
     }
 
