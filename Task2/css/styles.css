@@ -20,8 +20,15 @@ body {
   justify-content: center;
 }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
 .custom-button {
   display: inline-block;
+  max-width: 150px;
+  min-height: 40px;
   padding: 10px 20px;
   margin: 5px;
   font-size: 16px;

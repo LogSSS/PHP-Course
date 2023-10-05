@@ -1,0 +1,72 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+th,
+td {
+  padding: 0.2rem;
+  text-align: left;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  border-left: 1px solid #54697d;
+  border-right: 1px solid #54697d;
+}
+
+th {
+  font-weight: bold;
+  background-color: #0077c2;
+  color: #fff;
+  border-color: #454d55;
+}
+
+tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+td:hover {
+  background-color: #e2e6ea;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+caption {
+  padding: 0.5rem;
+  caption-side: bottom;
+  color: #6c757d;
+  text-align: center;
+}
+
+.input-text {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.del-button {
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5623cc;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.del-button:hover {
+  background-color: #0d098f;
+}

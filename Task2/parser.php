@@ -39,13 +39,16 @@ class Parser
         </head>
 
         <body>
+            <h1>File Uploader</h1>
             <div class=\"container\">
-                <h1>File Uploader</h1>
                 <div class=\"container-child\">$this->message</div>
-                <a href=\"index.php\" class=\"custom-button\">Go Back</a>
-           
+                <div>
+                    <form>
+                        <button type=\"button\" onclick=\"location.href='index.php';\" class=\"custom-button\">Go Back</button>
+                        <button type=\"button\" onclick=\"location.href='edit.php?file=$this->name';\" class=\"custom-button\">Edit Json</button>
+                    </form>
+                </div>
             </div>
-
         </body>
 
         </html>
@@ -73,7 +76,6 @@ class Parser
                 $cleaned_row = array_map('trim', $row);
                 $table_json[] = array_combine($header, $cleaned_row);
             }
-
             $json_output = json_encode($table_json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
             file_put_contents('files/out/parsed_' . $this->name . '.json', $json_output);
             $this->message = 'File parsed successfully';

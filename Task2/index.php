@@ -10,8 +10,8 @@
 </head>
 
 <body>
+    <h1>File Uploader</h1>
     <div class="header">
-        <h1>File Uploader</h1>
         <div class="container">
             <div class="upload-container" id="upload-container">
                 <form method="post" action="parser.php" enctype="multipart/form-data">

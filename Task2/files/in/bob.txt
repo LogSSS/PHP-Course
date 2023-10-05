@@ -1,0 +1,9 @@
+Name|Price|Count|Total|Discount
+---------------------------------
+Product1|10|100|1000|0
+Product2|20|50|1000|0
+Product3|15|75|1125|0
+Product4|25|25|625|0
+Product5|30|20|600|0
+Product6|35|15|525|0
+Product7|40|10|400|0
