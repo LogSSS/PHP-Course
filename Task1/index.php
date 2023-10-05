@@ -11,13 +11,13 @@ function showAlert($message)
     echo "<script>alert('$message')</script>";
 }
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST') 
+if ($_SERVER['REQUEST_METHOD'] === 'POST')
     if (isset($_POST['submit'])) {
         $text = $_POST['text'];
         $day = $_POST['day'];
         $month = $_POST['month'];
         $year = $_POST['year'];
-        if (!checkdate($month, $day, $year)) 
+        if (!checkdate($month, $day, $year))
             showAlert('Invalid date');
         else {
             $dateTime = $year . ' - ' . $month . ' - ' . $day;
@@ -81,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
                     ?>
                 </select>
             </label>
-            
+
         </div>
 
         <div class="centered submit">
@@ -89,7 +89,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST')
             <input type="text" name="text" autocomplete="off">
             <input value="SUBMIT" type="submit" text="submit" name="submit">
         </div>
-    
+
         <br>
     </form>
 
