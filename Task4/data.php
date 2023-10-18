@@ -8,7 +8,7 @@ switch ($id) {
         include 'files/out/out.html';
         break;
     case 2:
-
+        outHTML("files/out/phone_book_mif.html", "files/out/phone_book_pnu.html");
         break;
     case 3:
         outputTxt("files/in/month.txt", "files/out/month.txt");
@@ -26,6 +26,20 @@ switch ($id) {
         pageNotFound();
 }
 
+function outHTML($html, $html2)
+{
+    $html = file_get_contents($html);
+    $html2 = file_get_contents($html2);
+    echo HTMLheader() . "<h2>MIF</h2>" . $html .
+        "<div>
+            <a href=\"index.php\" class=\"custom-button\">Back</a>
+        </div>" . $html2 .
+        "<div>
+                    <a href=\"index.php\" class=\"custom-button\">Back</a>
+                </div>
+            </body>
+        </html>";
+}
 
 function outputTxt($fileIn, $fileOut)
 {

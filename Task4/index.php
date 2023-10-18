@@ -106,18 +106,22 @@ function listOfAllPhonesAndNames($file)
 
     $html = implode($matches[0]);
 
-    $pattern = '/<td.*>.*(.*?)<\/td>/s';
-    preg_match_all($pattern, $html, $matches);
-
     $html = implode($matches[0]);
+    $html = preg_replace('/(<[^>]+) style=".*?"/i', '$1', $html);
 
-    $pattern = '/<td.*><span.*>.*<\/span>(.*?)<\/td>/s';
 
-    preg_match_all($pattern, $html, $matches);
+    file_put_contents("files/out/phone_book_pnu.html", $html);
 
-    // file_put_contents("files/out/phone_book_pnu1.html", $html);
-    // file_put_contents("files/out/phone_book_pnu2.html", implode($matches[0]));
+    foreach ($matches[1] as $match) {
+        if (strpos($match, 'dekanat_mif@pnu.edu.ua') !== false) {
+            $html = $match;
+            break;
+        }
+    }
+
+    file_put_contents("files/out/phone_book_mif.html", $html);
 }
+
 saveHTML("https://pnu.edu.ua/phone_book_pnu/");
 
 listOfAllPhonesAndNames("files/in/phone_book_pnu.html");
