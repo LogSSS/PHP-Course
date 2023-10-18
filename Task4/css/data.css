@@ -1,0 +1,43 @@
+.frame {
+  margin: 2px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+th,
+td {
+  padding: 0.2rem;
+  text-align: left;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+  border-left: 1px solid #54697d;
+  border-right: 1px solid #54697d;
+}
+
+th {
+  font-weight: bold;
+  background-color: #0077c2;
+  color: #fff;
+  border-color: #454d55;
+}
+
+tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+td:hover {
+  background-color: #e2e6ea;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
