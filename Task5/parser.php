@@ -132,12 +132,9 @@ class Parser
                     $new_trkpt = $new_gpx->createElement('trkpt');
                     $new_trkpt->setAttribute('lat', $lat);
                     $new_trkpt->setAttribute('lon', $lon);
-                    $new_trkpt->setAttribute('track', $symbol);
 
-                    $ele = $new_gpx->createElement('ele', (string)$trkpt->ele);
-                    $time = $new_gpx->createElement('time', (string)$trkpt->time);
-                    $new_trkpt->appendChild($ele);
-                    $new_trkpt->appendChild($time);
+                    $symb = $new_gpx->createElement('track',$symbol);
+                    $new_trkpt->appendChild($symb);
 
                     $trackSegment->appendChild($new_trkpt);
                 }
@@ -216,7 +213,7 @@ class Parser
 
                 $newName = $newKML->createElement('name', $nameF);
                 $newPlacemark->appendChild($newName);
-                $description = "Track: $symbol\nLatitude: $lat\nLongitude: $lon\nAltitude: $altitude\n";
+                $description = "Track: $symbol\nLatitude: $lon\nLongitude: $lat\nAltitude: $altitude\n";
                 $newDescription = $newKML->createElement('description', $description);
                 $newPlacemark->appendChild($newDescription);
 
@@ -226,7 +223,7 @@ class Parser
                 $newPlacemark->appendChild($newPoint);
 
                 $folder->appendChild($newPlacemark);
-                $coordinatesString .= $lat . "," . $lon . "," . $altitude . "\n";
+                $coordinatesString .= $lon . "," . $lat . "," . $altitude . "\n";
             }
             $trackCoordinates->nodeValue = $coordinatesString;
             $trackLineString->appendChild($trackCoordinates);

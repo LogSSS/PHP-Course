@@ -1,2 +1,6115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Document><Folder><name>Waypoints</name></Folder></Document></kml>
+<kml xmlns="http://earth.google.com/kml/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Document>
+    <Folder>
+      <name>New Waypoints and Track</name>
+      <Placemark>
+        <name>1</name>
+        <description>Track: 01023202301302002232
+Latitude: 24.435101
+Longitude: 48.400307
+Altitude: 1588.22136
+</description>
+        <Point>
+          <coordinates>24.435101,48.400307,1588.22136</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <description>Track: 01023202301302002232
+Latitude: 24.435101
+Longitude: 48.400307
+Altitude: 1587.76416
+</description>
+        <Point>
+          <coordinates>24.435101,48.400307,1587.76416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3</name>
+        <description>Track: 01023202301302020010
+Latitude: 24.435189
+Longitude: 48.400257
+Altitude: 1587.27648
+</description>
+        <Point>
+          <coordinates>24.435189,48.400257,1587.27648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <description>Track: 01023202301302020010
+Latitude: 24.435169
+Longitude: 48.400192
+Altitude: 1584.38088
+</description>
+        <Point>
+          <coordinates>24.435169,48.400192,1584.38088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <description>Track: 01023202301302020010
+Latitude: 24.435157
+Longitude: 48.400168
+Altitude: 1581.51576
+</description>
+        <Point>
+          <coordinates>24.435157,48.400168,1581.51576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6</name>
+        <description>Track: 01023202301302020010
+Latitude: 24.435121
+Longitude: 48.400115
+Altitude: 1578.13248
+</description>
+        <Point>
+          <coordinates>24.435121,48.400115,1578.13248</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7</name>
+        <description>Track: 01023202301302020010
+Latitude: 24.435063
+Longitude: 48.400071
+Altitude: 1574.77968
+</description>
+        <Point>
+          <coordinates>24.435063,48.400071,1574.77968</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8</name>
+        <description>Track: 01023202301302020010
+Latitude: 24.435039
+Longitude: 48.400092
+Altitude: 1571.88408
+</description>
+        <Point>
+          <coordinates>24.435039,48.400092,1571.88408</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9</name>
+        <description>Track: 01023202301302020010
+Latitude: 24.435029
+Longitude: 48.400077
+Altitude: 1568.0436
+</description>
+        <Point>
+          <coordinates>24.435029,48.400077,1568.0436</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10</name>
+        <description>Track: 01023202301302020001
+Latitude: 24.434891
+Longitude: 48.399950
+Altitude: 1565.17848
+</description>
+        <Point>
+          <coordinates>24.434891,48.399950,1565.17848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434813
+Longitude: 48.399800
+Altitude: 1561.7952
+</description>
+        <Point>
+          <coordinates>24.434813,48.399800,1561.7952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434815
+Longitude: 48.399796
+Altitude: 1558.93008
+</description>
+        <Point>
+          <coordinates>24.434815,48.399796,1558.93008</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434772
+Longitude: 48.399757
+Altitude: 1556.03448
+</description>
+        <Point>
+          <coordinates>24.434772,48.399757,1556.03448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434755
+Longitude: 48.399699
+Altitude: 1552.68168
+</description>
+        <Point>
+          <coordinates>24.434755,48.399699,1552.68168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434756
+Longitude: 48.399653
+Altitude: 1552.68168
+</description>
+        <Point>
+          <coordinates>24.434756,48.399653,1552.68168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434772
+Longitude: 48.399625
+Altitude: 1550.27376
+</description>
+        <Point>
+          <coordinates>24.434772,48.399625,1550.27376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434799
+Longitude: 48.399583
+Altitude: 1546.89048
+</description>
+        <Point>
+          <coordinates>24.434799,48.399583,1546.89048</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18</name>
+        <description>Track: 01023202301302020003
+Latitude: 24.434699
+Longitude: 48.399588
+Altitude: 1544.02536
+</description>
+        <Point>
+          <coordinates>24.434699,48.399588,1544.02536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19</name>
+        <description>Track: 01023202301302020021
+Latitude: 24.434616
+Longitude: 48.399559
+Altitude: 1541.12976
+</description>
+        <Point>
+          <coordinates>24.434616,48.399559,1541.12976</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20</name>
+        <description>Track: 01023202301302020021
+Latitude: 24.434508
+Longitude: 48.399524
+Altitude: 1534.88136
+</description>
+        <Point>
+          <coordinates>24.434508,48.399524,1534.88136</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21</name>
+        <description>Track: 01023202301302020021
+Latitude: 24.434434
+Longitude: 48.399468
+Altitude: 1531.98576
+</description>
+        <Point>
+          <coordinates>24.434434,48.399468,1531.98576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>22</name>
+        <description>Track: 01023202301302020021
+Latitude: 24.434441
+Longitude: 48.399387
+Altitude: 1528.63296
+</description>
+        <Point>
+          <coordinates>24.434441,48.399387,1528.63296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>23</name>
+        <description>Track: 01023202301302020021
+Latitude: 24.434481
+Longitude: 48.399335
+Altitude: 1525.73736
+</description>
+        <Point>
+          <coordinates>24.434481,48.399335,1525.73736</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>24</name>
+        <description>Track: 01023202301302020021
+Latitude: 24.434402
+Longitude: 48.399285
+Altitude: 1522.38456
+</description>
+        <Point>
+          <coordinates>24.434402,48.399285,1522.38456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25</name>
+        <description>Track: 01023202301302020021
+Latitude: 24.434322
+Longitude: 48.399256
+Altitude: 1519.48896
+</description>
+        <Point>
+          <coordinates>24.434322,48.399256,1519.48896</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>26</name>
+        <description>Track: 01023202301302020020
+Latitude: 24.434204
+Longitude: 48.399283
+Altitude: 1517.11152
+</description>
+        <Point>
+          <coordinates>24.434204,48.399283,1517.11152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>27</name>
+        <description>Track: 01023202301302020020
+Latitude: 24.434168
+Longitude: 48.399261
+Altitude: 1513.72824
+</description>
+        <Point>
+          <coordinates>24.434168,48.399261,1513.72824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.434100
+Longitude: 48.399216
+Altitude: 1511.808
+</description>
+        <Point>
+          <coordinates>24.434100,48.399216,1511.808</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>29</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.434081
+Longitude: 48.399192
+Altitude: 1508.9124
+</description>
+        <Point>
+          <coordinates>24.434081,48.399192,1508.9124</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.434102
+Longitude: 48.399114
+Altitude: 1505.5596
+</description>
+        <Point>
+          <coordinates>24.434102,48.399114,1505.5596</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>31</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.433988
+Longitude: 48.399113
+Altitude: 1502.2068
+</description>
+        <Point>
+          <coordinates>24.433988,48.399113,1502.2068</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>32</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.433910
+Longitude: 48.399109
+Altitude: 1499.3112
+</description>
+        <Point>
+          <coordinates>24.433910,48.399109,1499.3112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.433885
+Longitude: 48.399039
+Altitude: 1496.4156
+</description>
+        <Point>
+          <coordinates>24.433885,48.399039,1496.4156</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>34</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.433887
+Longitude: 48.398978
+Altitude: 1493.0628
+</description>
+        <Point>
+          <coordinates>24.433887,48.398978,1493.0628</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>35</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.433846
+Longitude: 48.398923
+Altitude: 1488.73464
+</description>
+        <Point>
+          <coordinates>24.433846,48.398923,1488.73464</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36</name>
+        <description>Track: 01023202301302020022
+Latitude: 24.433786
+Longitude: 48.398926
+Altitude: 1486.8144
+</description>
+        <Point>
+          <coordinates>24.433786,48.398926,1486.8144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37</name>
+        <description>Track: 01023202301302020200
+Latitude: 24.433736
+Longitude: 48.398874
+Altitude: 1483.4616
+</description>
+        <Point>
+          <coordinates>24.433736,48.398874,1483.4616</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>38</name>
+        <description>Track: 01023202301302020200
+Latitude: 24.433682
+Longitude: 48.398827
+Altitude: 1480.566
+</description>
+        <Point>
+          <coordinates>24.433682,48.398827,1480.566</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>39</name>
+        <description>Track: 01023202301302020200
+Latitude: 24.433606
+Longitude: 48.398768
+Altitude: 1477.2132
+</description>
+        <Point>
+          <coordinates>24.433606,48.398768,1477.2132</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>40</name>
+        <description>Track: 01023202301302020200
+Latitude: 24.433603
+Longitude: 48.398687
+Altitude: 1473.37272
+</description>
+        <Point>
+          <coordinates>24.433603,48.398687,1473.37272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>41</name>
+        <description>Track: 01023202301213131311
+Latitude: 24.433552
+Longitude: 48.398609
+Altitude: 1470.47712
+</description>
+        <Point>
+          <coordinates>24.433552,48.398609,1470.47712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>42</name>
+        <description>Track: 01023202301213131313
+Latitude: 24.433452
+Longitude: 48.398544
+Altitude: 1467.58152
+</description>
+        <Point>
+          <coordinates>24.433452,48.398544,1467.58152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>43</name>
+        <description>Track: 01023202301213131313
+Latitude: 24.433371
+Longitude: 48.398507
+Altitude: 1464.7164
+</description>
+        <Point>
+          <coordinates>24.433371,48.398507,1464.7164</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>44</name>
+        <description>Track: 01023202301213131313
+Latitude: 24.433168
+Longitude: 48.398484
+Altitude: 1461.8208
+</description>
+        <Point>
+          <coordinates>24.433168,48.398484,1461.8208</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>45</name>
+        <description>Track: 01023202301213131313
+Latitude: 24.433113
+Longitude: 48.398426
+Altitude: 1460.38824
+</description>
+        <Point>
+          <coordinates>24.433113,48.398426,1460.38824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>46</name>
+        <description>Track: 01023202301213131313
+Latitude: 24.433096
+Longitude: 48.398345
+Altitude: 1457.00496
+</description>
+        <Point>
+          <coordinates>24.433096,48.398345,1457.00496</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>47</name>
+        <description>Track: 01023202301213131313
+Latitude: 24.433004
+Longitude: 48.398320
+Altitude: 1453.65216
+</description>
+        <Point>
+          <coordinates>24.433004,48.398320,1453.65216</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>48</name>
+        <description>Track: 01023202301213131313
+Latitude: 24.432951
+Longitude: 48.398285
+Altitude: 1450.75656
+</description>
+        <Point>
+          <coordinates>24.432951,48.398285,1450.75656</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>49</name>
+        <description>Track: 01023202301213131312
+Latitude: 24.432867
+Longitude: 48.398226
+Altitude: 1447.40376
+</description>
+        <Point>
+          <coordinates>24.432867,48.398226,1447.40376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>50</name>
+        <description>Track: 01023202301213131330
+Latitude: 24.432805
+Longitude: 48.398195
+Altitude: 1444.05096
+</description>
+        <Point>
+          <coordinates>24.432805,48.398195,1444.05096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>51</name>
+        <description>Track: 01023202301213131330
+Latitude: 24.432713
+Longitude: 48.398187
+Altitude: 1440.66768
+</description>
+        <Point>
+          <coordinates>24.432713,48.398187,1440.66768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>52</name>
+        <description>Track: 01023202301213131330
+Latitude: 24.432665
+Longitude: 48.398121
+Altitude: 1437.31488
+</description>
+        <Point>
+          <coordinates>24.432665,48.398121,1437.31488</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>53</name>
+        <description>Track: 01023202301213131330
+Latitude: 24.432573
+Longitude: 48.398086
+Altitude: 1434.41928
+</description>
+        <Point>
+          <coordinates>24.432573,48.398086,1434.41928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>54</name>
+        <description>Track: 01023202301213131330
+Latitude: 24.432224
+Longitude: 48.398033
+Altitude: 1431.06648
+</description>
+        <Point>
+          <coordinates>24.432224,48.398033,1431.06648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>55</name>
+        <description>Track: 01023202301213131321
+Latitude: 24.432170
+Longitude: 48.397939
+Altitude: 1429.60344
+</description>
+        <Point>
+          <coordinates>24.432170,48.397939,1429.60344</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>56</name>
+        <description>Track: 01023202301213131323
+Latitude: 24.432132
+Longitude: 48.397787
+Altitude: 1432.98672
+</description>
+        <Point>
+          <coordinates>24.432132,48.397787,1432.98672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>57</name>
+        <description>Track: 01023202301213131323
+Latitude: 24.432040
+Longitude: 48.397678
+Altitude: 1436.33952
+</description>
+        <Point>
+          <coordinates>24.432040,48.397678,1436.33952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>58</name>
+        <description>Track: 01023202301213131323
+Latitude: 24.431911
+Longitude: 48.397607
+Altitude: 1439.7228
+</description>
+        <Point>
+          <coordinates>24.431911,48.397607,1439.7228</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>59</name>
+        <description>Track: 01023202301213131323
+Latitude: 24.431843
+Longitude: 48.397526
+Altitude: 1443.0756
+</description>
+        <Point>
+          <coordinates>24.431843,48.397526,1443.0756</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>60</name>
+        <description>Track: 01023202301213133101
+Latitude: 24.431791
+Longitude: 48.397488
+Altitude: 1443.56328
+</description>
+        <Point>
+          <coordinates>24.431791,48.397488,1443.56328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>61</name>
+        <description>Track: 01023202301213133101
+Latitude: 24.431725
+Longitude: 48.397379
+Altitude: 1443.0756
+</description>
+        <Point>
+          <coordinates>24.431725,48.397379,1443.0756</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>62</name>
+        <description>Track: 01023202301213133101
+Latitude: 24.431649
+Longitude: 48.397374
+Altitude: 1442.10024
+</description>
+        <Point>
+          <coordinates>24.431649,48.397374,1442.10024</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>63</name>
+        <description>Track: 01023202301213133101
+Latitude: 24.431611
+Longitude: 48.397362
+Altitude: 1441.64304
+</description>
+        <Point>
+          <coordinates>24.431611,48.397362,1441.64304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>64</name>
+        <description>Track: 01023202301213133100
+Latitude: 24.431466
+Longitude: 48.397364
+Altitude: 1438.74744
+</description>
+        <Point>
+          <coordinates>24.431466,48.397364,1438.74744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>65</name>
+        <description>Track: 01023202301213133100
+Latitude: 24.431313
+Longitude: 48.397352
+Altitude: 1435.85184
+</description>
+        <Point>
+          <coordinates>24.431313,48.397352,1435.85184</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>66</name>
+        <description>Track: 01023202301213133100
+Latitude: 24.431164
+Longitude: 48.397347
+Altitude: 1432.49904
+</description>
+        <Point>
+          <coordinates>24.431164,48.397347,1432.49904</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>67</name>
+        <description>Track: 01023202301213133100
+Latitude: 24.431099
+Longitude: 48.397344
+Altitude: 1431.06648
+</description>
+        <Point>
+          <coordinates>24.431099,48.397344,1431.06648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>68</name>
+        <description>Track: 01023202301213133100
+Latitude: 24.430920
+Longitude: 48.397362
+Altitude: 1427.226
+</description>
+        <Point>
+          <coordinates>24.430920,48.397362,1427.226</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69</name>
+        <description>Track: 01023202301213133011
+Latitude: 24.430798
+Longitude: 48.397379
+Altitude: 1423.84272
+</description>
+        <Point>
+          <coordinates>24.430798,48.397379,1423.84272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>70</name>
+        <description>Track: 01023202301213133011
+Latitude: 24.430711
+Longitude: 48.397362
+Altitude: 1421.4348
+</description>
+        <Point>
+          <coordinates>24.430711,48.397362,1421.4348</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>71</name>
+        <description>Track: 01023202301213133011
+Latitude: 24.430601
+Longitude: 48.397338
+Altitude: 1418.56968
+</description>
+        <Point>
+          <coordinates>24.430601,48.397338,1418.56968</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>72</name>
+        <description>Track: 01023202301213133011
+Latitude: 24.430479
+Longitude: 48.397353
+Altitude: 1416.16176
+</description>
+        <Point>
+          <coordinates>24.430479,48.397353,1416.16176</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>73</name>
+        <description>Track: 01023202301213133011
+Latitude: 24.430332
+Longitude: 48.397355
+Altitude: 1412.32128
+</description>
+        <Point>
+          <coordinates>24.430332,48.397355,1412.32128</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>74</name>
+        <description>Track: 01023202301213133011
+Latitude: 24.430208
+Longitude: 48.397336
+Altitude: 1409.42568
+</description>
+        <Point>
+          <coordinates>24.430208,48.397336,1409.42568</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>75</name>
+        <description>Track: 01023202301213133010
+Latitude: 24.430009
+Longitude: 48.397361
+Altitude: 1406.07288
+</description>
+        <Point>
+          <coordinates>24.430009,48.397361,1406.07288</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>76</name>
+        <description>Track: 01023202301213133010
+Latitude: 24.429902
+Longitude: 48.397352
+Altitude: 1402.6896
+</description>
+        <Point>
+          <coordinates>24.429902,48.397352,1402.6896</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>77</name>
+        <description>Track: 01023202301213133010
+Latitude: 24.429730
+Longitude: 48.397351
+Altitude: 1399.82448
+</description>
+        <Point>
+          <coordinates>24.429730,48.397351,1399.82448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>78</name>
+        <description>Track: 01023202301213133010
+Latitude: 24.429560
+Longitude: 48.397382
+Altitude: 1396.4412
+</description>
+        <Point>
+          <coordinates>24.429560,48.397382,1396.4412</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>79</name>
+        <description>Track: 01023202301213133001
+Latitude: 24.429430
+Longitude: 48.397384
+Altitude: 1393.57608
+</description>
+        <Point>
+          <coordinates>24.429430,48.397384,1393.57608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>80</name>
+        <description>Track: 01023202301213133001
+Latitude: 24.429323
+Longitude: 48.397387
+Altitude: 1390.1928
+</description>
+        <Point>
+          <coordinates>24.429323,48.397387,1390.1928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>81</name>
+        <description>Track: 01023202301213133001
+Latitude: 24.429167
+Longitude: 48.397392
+Altitude: 1387.32768
+</description>
+        <Point>
+          <coordinates>24.429167,48.397392,1387.32768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>82</name>
+        <description>Track: 01023202301213133001
+Latitude: 24.429034
+Longitude: 48.397386
+Altitude: 1383.4872
+</description>
+        <Point>
+          <coordinates>24.429034,48.397386,1383.4872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>83</name>
+        <description>Track: 01023202301213133001
+Latitude: 24.428795
+Longitude: 48.397391
+Altitude: 1380.5916
+</description>
+        <Point>
+          <coordinates>24.428795,48.397391,1380.5916</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>84</name>
+        <description>Track: 01023202301213133000
+Latitude: 24.428723
+Longitude: 48.397390
+Altitude: 1378.67136
+</description>
+        <Point>
+          <coordinates>24.428723,48.397390,1378.67136</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>85</name>
+        <description>Track: 01023202301213133000
+Latitude: 24.428595
+Longitude: 48.397393
+Altitude: 1375.77576
+</description>
+        <Point>
+          <coordinates>24.428595,48.397393,1375.77576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>86</name>
+        <description>Track: 01023202301213133000
+Latitude: 24.428507
+Longitude: 48.397385
+Altitude: 1374.3432
+</description>
+        <Point>
+          <coordinates>24.428507,48.397385,1374.3432</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>87</name>
+        <description>Track: 01023202301213133000
+Latitude: 24.428355
+Longitude: 48.397390
+Altitude: 1370.9904
+</description>
+        <Point>
+          <coordinates>24.428355,48.397390,1370.9904</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>88</name>
+        <description>Track: 01023202301213133000
+Latitude: 24.428236
+Longitude: 48.397378
+Altitude: 1367.60712
+</description>
+        <Point>
+          <coordinates>24.428236,48.397378,1367.60712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>89</name>
+        <description>Track: 01023202301213133000
+Latitude: 24.428103
+Longitude: 48.397376
+Altitude: 1364.25432
+</description>
+        <Point>
+          <coordinates>24.428103,48.397376,1364.25432</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>90</name>
+        <description>Track: 01023202301213132111
+Latitude: 24.427963
+Longitude: 48.397382
+Altitude: 1361.35872
+</description>
+        <Point>
+          <coordinates>24.427963,48.397382,1361.35872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>91</name>
+        <description>Track: 01023202301213132111
+Latitude: 24.427767
+Longitude: 48.397360
+Altitude: 1358.00592
+</description>
+        <Point>
+          <coordinates>24.427767,48.397360,1358.00592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>92</name>
+        <description>Track: 01023202301213132111
+Latitude: 24.427567
+Longitude: 48.397371
+Altitude: 1355.598
+</description>
+        <Point>
+          <coordinates>24.427567,48.397371,1355.598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>93</name>
+        <description>Track: 01023202301213132111
+Latitude: 24.427529
+Longitude: 48.397375
+Altitude: 1354.62264
+</description>
+        <Point>
+          <coordinates>24.427529,48.397375,1354.62264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>94</name>
+        <description>Track: 01023202301213132111
+Latitude: 24.427425
+Longitude: 48.397370
+Altitude: 1351.75752
+</description>
+        <Point>
+          <coordinates>24.427425,48.397370,1351.75752</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>95</name>
+        <description>Track: 01023202301213132110
+Latitude: 24.427271
+Longitude: 48.397325
+Altitude: 1348.37424
+</description>
+        <Point>
+          <coordinates>24.427271,48.397325,1348.37424</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>96</name>
+        <description>Track: 01023202301213132110
+Latitude: 24.427138
+Longitude: 48.397310
+Altitude: 1344.53376
+</description>
+        <Point>
+          <coordinates>24.427138,48.397310,1344.53376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>97</name>
+        <description>Track: 01023202301213132110
+Latitude: 24.427109
+Longitude: 48.397285
+Altitude: 1342.61352
+</description>
+        <Point>
+          <coordinates>24.427109,48.397285,1342.61352</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>98</name>
+        <description>Track: 01023202301213132110
+Latitude: 24.426988
+Longitude: 48.397212
+Altitude: 1339.26072
+</description>
+        <Point>
+          <coordinates>24.426988,48.397212,1339.26072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>99</name>
+        <description>Track: 01023202301213132112
+Latitude: 24.426916
+Longitude: 48.397145
+Altitude: 1335.87744
+</description>
+        <Point>
+          <coordinates>24.426916,48.397145,1335.87744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100</name>
+        <description>Track: 01023202301213132112
+Latitude: 24.426751
+Longitude: 48.397120
+Altitude: 1333.01232
+</description>
+        <Point>
+          <coordinates>24.426751,48.397120,1333.01232</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>101</name>
+        <description>Track: 01023202301213132103
+Latitude: 24.426592
+Longitude: 48.397073
+Altitude: 1329.62904
+</description>
+        <Point>
+          <coordinates>24.426592,48.397073,1329.62904</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>102</name>
+        <description>Track: 01023202301213132103
+Latitude: 24.426501
+Longitude: 48.397019
+Altitude: 1326.27624
+</description>
+        <Point>
+          <coordinates>24.426501,48.397019,1326.27624</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>103</name>
+        <description>Track: 01023202301213132103
+Latitude: 24.426400
+Longitude: 48.397020
+Altitude: 1325.30088
+</description>
+        <Point>
+          <coordinates>24.426400,48.397020,1325.30088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>104</name>
+        <description>Track: 01023202301213132103
+Latitude: 24.426275
+Longitude: 48.396962
+Altitude: 1321.94808
+</description>
+        <Point>
+          <coordinates>24.426275,48.396962,1321.94808</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>105</name>
+        <description>Track: 01023202301213132103
+Latitude: 24.426211
+Longitude: 48.396946
+Altitude: 1320.51552
+</description>
+        <Point>
+          <coordinates>24.426211,48.396946,1320.51552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>106</name>
+        <description>Track: 01023202301213132103
+Latitude: 24.426128
+Longitude: 48.396899
+Altitude: 1320.02784
+</description>
+        <Point>
+          <coordinates>24.426128,48.396899,1320.02784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>107</name>
+        <description>Track: 01023202301213132103
+Latitude: 24.426083
+Longitude: 48.396880
+Altitude: 1318.59528
+</description>
+        <Point>
+          <coordinates>24.426083,48.396880,1318.59528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>108</name>
+        <description>Track: 01023202301213132120
+Latitude: 24.425917
+Longitude: 48.396768
+Altitude: 1315.69968
+</description>
+        <Point>
+          <coordinates>24.425917,48.396768,1315.69968</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>109</name>
+        <description>Track: 01023202301213132120
+Latitude: 24.425777
+Longitude: 48.396678
+Altitude: 1312.80408
+</description>
+        <Point>
+          <coordinates>24.425777,48.396678,1312.80408</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>110</name>
+        <description>Track: 01023202301213132120
+Latitude: 24.425595
+Longitude: 48.396626
+Altitude: 1311.8592
+</description>
+        <Point>
+          <coordinates>24.425595,48.396626,1311.8592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>111</name>
+        <description>Track: 01023202301213132120
+Latitude: 24.425507
+Longitude: 48.396609
+Altitude: 1311.37152
+</description>
+        <Point>
+          <coordinates>24.425507,48.396609,1311.37152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>112</name>
+        <description>Track: 01023202301213132120
+Latitude: 24.425408
+Longitude: 48.396557
+Altitude: 1309.45128
+</description>
+        <Point>
+          <coordinates>24.425408,48.396557,1309.45128</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>113</name>
+        <description>Track: 01023202301213132120
+Latitude: 24.425357
+Longitude: 48.396517
+Altitude: 1308.5064
+</description>
+        <Point>
+          <coordinates>24.425357,48.396517,1308.5064</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>114</name>
+        <description>Track: 01023202301213132033
+Latitude: 24.425150
+Longitude: 48.396450
+Altitude: 1307.04336
+</description>
+        <Point>
+          <coordinates>24.425150,48.396450,1307.04336</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>115</name>
+        <description>Track: 01023202301213132033
+Latitude: 24.424984
+Longitude: 48.396357
+Altitude: 1306.09848
+</description>
+        <Point>
+          <coordinates>24.424984,48.396357,1306.09848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>116</name>
+        <description>Track: 01023202301213132033
+Latitude: 24.424873
+Longitude: 48.396238
+Altitude: 1306.09848
+</description>
+        <Point>
+          <coordinates>24.424873,48.396238,1306.09848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>117</name>
+        <description>Track: 01023202301213132211
+Latitude: 24.424718
+Longitude: 48.396118
+Altitude: 1308.5064
+</description>
+        <Point>
+          <coordinates>24.424718,48.396118,1308.5064</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>118</name>
+        <description>Track: 01023202301213132210
+Latitude: 24.424610
+Longitude: 48.396024
+Altitude: 1310.42664
+</description>
+        <Point>
+          <coordinates>24.424610,48.396024,1310.42664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>119</name>
+        <description>Track: 01023202301213132210
+Latitude: 24.424464
+Longitude: 48.395942
+Altitude: 1308.01872
+</description>
+        <Point>
+          <coordinates>24.424464,48.395942,1308.01872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>120</name>
+        <description>Track: 01023202301213132210
+Latitude: 24.424390
+Longitude: 48.395839
+Altitude: 1307.53104
+</description>
+        <Point>
+          <coordinates>24.424390,48.395839,1307.53104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>121</name>
+        <description>Track: 01023202301213132212
+Latitude: 24.424327
+Longitude: 48.395766
+Altitude: 1307.53104
+</description>
+        <Point>
+          <coordinates>24.424327,48.395766,1307.53104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>122</name>
+        <description>Track: 01023202301213132212
+Latitude: 24.424246
+Longitude: 48.395660
+Altitude: 1309.45128
+</description>
+        <Point>
+          <coordinates>24.424246,48.395660,1309.45128</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>123</name>
+        <description>Track: 01023202301213132212
+Latitude: 24.424145
+Longitude: 48.395567
+Altitude: 1313.29176
+</description>
+        <Point>
+          <coordinates>24.424145,48.395567,1313.29176</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>124</name>
+        <description>Track: 01023202301213132212
+Latitude: 24.424077
+Longitude: 48.395473
+Altitude: 1316.18736
+</description>
+        <Point>
+          <coordinates>24.424077,48.395473,1316.18736</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>125</name>
+        <description>Track: 01023202301213132221
+Latitude: 24.423973
+Longitude: 48.395385
+Altitude: 1319.54016
+</description>
+        <Point>
+          <coordinates>24.423973,48.395385,1319.54016</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>126</name>
+        <description>Track: 01023202301213132221
+Latitude: 24.423962
+Longitude: 48.395324
+Altitude: 1322.92344
+</description>
+        <Point>
+          <coordinates>24.423962,48.395324,1322.92344</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>127</name>
+        <description>Track: 01023202301213132221
+Latitude: 24.423894
+Longitude: 48.395249
+Altitude: 1325.78856
+</description>
+        <Point>
+          <coordinates>24.423894,48.395249,1325.78856</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>128</name>
+        <description>Track: 01023202301213132221
+Latitude: 24.423813
+Longitude: 48.395157
+Altitude: 1328.68416
+</description>
+        <Point>
+          <coordinates>24.423813,48.395157,1328.68416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>129</name>
+        <description>Track: 01023202301213132223
+Latitude: 24.423721
+Longitude: 48.395052
+Altitude: 1331.54928
+</description>
+        <Point>
+          <coordinates>24.423721,48.395052,1331.54928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>130</name>
+        <description>Track: 01023202301213132223
+Latitude: 24.423622
+Longitude: 48.394910
+Altitude: 1334.93256
+</description>
+        <Point>
+          <coordinates>24.423622,48.394910,1334.93256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>131</name>
+        <description>Track: 01023202301213132223
+Latitude: 24.423527
+Longitude: 48.394850
+Altitude: 1338.28536
+</description>
+        <Point>
+          <coordinates>24.423527,48.394850,1338.28536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>132</name>
+        <description>Track: 01023202301213310001
+Latitude: 24.423395
+Longitude: 48.394772
+Altitude: 1341.18096
+</description>
+        <Point>
+          <coordinates>24.423395,48.394772,1341.18096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>133</name>
+        <description>Track: 01023202301213310001
+Latitude: 24.423295
+Longitude: 48.394682
+Altitude: 1344.53376
+</description>
+        <Point>
+          <coordinates>24.423295,48.394682,1344.53376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>134</name>
+        <description>Track: 01023202301213310000
+Latitude: 24.423214
+Longitude: 48.394636
+Altitude: 1346.94168
+</description>
+        <Point>
+          <coordinates>24.423214,48.394636,1346.94168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>135</name>
+        <description>Track: 01023202301213310000
+Latitude: 24.423005
+Longitude: 48.394522
+Altitude: 1349.83728
+</description>
+        <Point>
+          <coordinates>24.423005,48.394522,1349.83728</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>136</name>
+        <description>Track: 01023202301213310000
+Latitude: 24.422861
+Longitude: 48.394561
+Altitude: 1351.75752
+</description>
+        <Point>
+          <coordinates>24.422861,48.394561,1351.75752</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>137</name>
+        <description>Track: 01023202301213301111
+Latitude: 24.422607
+Longitude: 48.394674
+Altitude: 1357.03056
+</description>
+        <Point>
+          <coordinates>24.422607,48.394674,1357.03056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>138</name>
+        <description>Track: 01023202301213301111
+Latitude: 24.422429
+Longitude: 48.394706
+Altitude: 1359.92616
+</description>
+        <Point>
+          <coordinates>24.422429,48.394706,1359.92616</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>139</name>
+        <description>Track: 01023202301213301111
+Latitude: 24.422229
+Longitude: 48.394674
+Altitude: 1362.79128
+</description>
+        <Point>
+          <coordinates>24.422229,48.394674,1362.79128</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>140</name>
+        <description>Track: 01023202301213301111
+Latitude: 24.422110
+Longitude: 48.394689
+Altitude: 1365.1992
+</description>
+        <Point>
+          <coordinates>24.422110,48.394689,1365.1992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>141</name>
+        <description>Track: 01023202301213301110
+Latitude: 24.421856
+Longitude: 48.394759
+Altitude: 1366.66224
+</description>
+        <Point>
+          <coordinates>24.421856,48.394759,1366.66224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>142</name>
+        <description>Track: 01023202301213123332
+Latitude: 24.421764
+Longitude: 48.394788
+Altitude: 1368.0948
+</description>
+        <Point>
+          <coordinates>24.421764,48.394788,1368.0948</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>143</name>
+        <description>Track: 01023202301213123332
+Latitude: 24.421453
+Longitude: 48.394842
+Altitude: 1370.01504
+</description>
+        <Point>
+          <coordinates>24.421453,48.394842,1370.01504</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>144</name>
+        <description>Track: 01023202301213123323
+Latitude: 24.421170
+Longitude: 48.394922
+Altitude: 1371.93528
+</description>
+        <Point>
+          <coordinates>24.421170,48.394922,1371.93528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>145</name>
+        <description>Track: 01023202301213123323
+Latitude: 24.421022
+Longitude: 48.394918
+Altitude: 1374.83088
+</description>
+        <Point>
+          <coordinates>24.421022,48.394918,1374.83088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>146</name>
+        <description>Track: 01023202301213123323
+Latitude: 24.420920
+Longitude: 48.394923
+Altitude: 1375.28808
+</description>
+        <Point>
+          <coordinates>24.420920,48.394923,1375.28808</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>147</name>
+        <description>Track: 01023202301213123323
+Latitude: 24.420591
+Longitude: 48.395005
+Altitude: 1374.3432
+</description>
+        <Point>
+          <coordinates>24.420591,48.395005,1374.3432</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>148</name>
+        <description>Track: 01023202301213123322
+Latitude: 24.420230
+Longitude: 48.395106
+Altitude: 1374.3432
+</description>
+        <Point>
+          <coordinates>24.420230,48.395106,1374.3432</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>149</name>
+        <description>Track: 01023202301213123320
+Latitude: 24.419958
+Longitude: 48.395139
+Altitude: 1374.83088
+</description>
+        <Point>
+          <coordinates>24.419958,48.395139,1374.83088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>150</name>
+        <description>Track: 01023202301213123231
+Latitude: 24.419726
+Longitude: 48.395184
+Altitude: 1373.85552
+</description>
+        <Point>
+          <coordinates>24.419726,48.395184,1373.85552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>151</name>
+        <description>Track: 01023202301213123231
+Latitude: 24.419482
+Longitude: 48.395226
+Altitude: 1374.83088
+</description>
+        <Point>
+          <coordinates>24.419482,48.395226,1374.83088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>152</name>
+        <description>Track: 01023202301213123231
+Latitude: 24.419255
+Longitude: 48.395293
+Altitude: 1377.2388
+</description>
+        <Point>
+          <coordinates>24.419255,48.395293,1377.2388</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>153</name>
+        <description>Track: 01023202301213123230
+Latitude: 24.418984
+Longitude: 48.395369
+Altitude: 1377.696
+</description>
+        <Point>
+          <coordinates>24.418984,48.395369,1377.696</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>154</name>
+        <description>Track: 01023202301213123212
+Latitude: 24.418630
+Longitude: 48.395463
+Altitude: 1380.5916
+</description>
+        <Point>
+          <coordinates>24.418630,48.395463,1380.5916</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>155</name>
+        <description>Track: 01023202301213123203
+Latitude: 24.418415
+Longitude: 48.395513
+Altitude: 1383.4872
+</description>
+        <Point>
+          <coordinates>24.418415,48.395513,1383.4872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>156</name>
+        <description>Track: 01023202301213123203
+Latitude: 24.418248
+Longitude: 48.395571
+Altitude: 1386.84
+</description>
+        <Point>
+          <coordinates>24.418248,48.395571,1386.84</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>157</name>
+        <description>Track: 01023202301213123203
+Latitude: 24.418162
+Longitude: 48.395592
+Altitude: 1390.1928
+</description>
+        <Point>
+          <coordinates>24.418162,48.395592,1390.1928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>158</name>
+        <description>Track: 01023202301213123203
+Latitude: 24.417991
+Longitude: 48.395608
+Altitude: 1393.0884
+</description>
+        <Point>
+          <coordinates>24.417991,48.395608,1393.0884</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>159</name>
+        <description>Track: 01023202301213123203
+Latitude: 24.417854
+Longitude: 48.395644
+Altitude: 1395.00864
+</description>
+        <Point>
+          <coordinates>24.417854,48.395644,1395.00864</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>160</name>
+        <description>Track: 01023202301213123202
+Latitude: 24.417621
+Longitude: 48.395612
+Altitude: 1393.57608
+</description>
+        <Point>
+          <coordinates>24.417621,48.395612,1393.57608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>161</name>
+        <description>Track: 01023202301213123202
+Latitude: 24.417424
+Longitude: 48.395644
+Altitude: 1392.11304
+</description>
+        <Point>
+          <coordinates>24.417424,48.395644,1392.11304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>162</name>
+        <description>Track: 01023202301213122313
+Latitude: 24.417079
+Longitude: 48.395668
+Altitude: 1391.65584
+</description>
+        <Point>
+          <coordinates>24.417079,48.395668,1391.65584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>163</name>
+        <description>Track: 01023202301213122313
+Latitude: 24.416759
+Longitude: 48.395738
+Altitude: 1392.60072
+</description>
+        <Point>
+          <coordinates>24.416759,48.395738,1392.60072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>164</name>
+        <description>Track: 01023202301213122313
+Latitude: 24.416518
+Longitude: 48.395753
+Altitude: 1393.0884
+</description>
+        <Point>
+          <coordinates>24.416518,48.395753,1393.0884</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>165</name>
+        <description>Track: 01023202301213122312
+Latitude: 24.416417
+Longitude: 48.395763
+Altitude: 1393.0884
+</description>
+        <Point>
+          <coordinates>24.416417,48.395763,1393.0884</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>166</name>
+        <description>Track: 01023202301213122310
+Latitude: 24.416238
+Longitude: 48.395817
+Altitude: 1391.65584
+</description>
+        <Point>
+          <coordinates>24.416238,48.395817,1391.65584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>167</name>
+        <description>Track: 01023202301213122310
+Latitude: 24.416190
+Longitude: 48.395841
+Altitude: 1390.68048
+</description>
+        <Point>
+          <coordinates>24.416190,48.395841,1390.68048</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>168</name>
+        <description>Track: 01023202301213122310
+Latitude: 24.416013
+Longitude: 48.395906
+Altitude: 1389.7356
+</description>
+        <Point>
+          <coordinates>24.416013,48.395906,1389.7356</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>169</name>
+        <description>Track: 01023202301213122310
+Latitude: 24.415945
+Longitude: 48.395934
+Altitude: 1389.24792
+</description>
+        <Point>
+          <coordinates>24.415945,48.395934,1389.24792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>170</name>
+        <description>Track: 01023202301213122310
+Latitude: 24.415877
+Longitude: 48.395964
+Altitude: 1389.24792
+</description>
+        <Point>
+          <coordinates>24.415877,48.395964,1389.24792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>171</name>
+        <description>Track: 01023202301213122310
+Latitude: 24.415756
+Longitude: 48.396020
+Altitude: 1388.76024
+</description>
+        <Point>
+          <coordinates>24.415756,48.396020,1388.76024</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>172</name>
+        <description>Track: 01023202301213122123
+Latitude: 24.415506
+Longitude: 48.396156
+Altitude: 1388.76024
+</description>
+        <Point>
+          <coordinates>24.415506,48.396156,1388.76024</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>173</name>
+        <description>Track: 01023202301213122123
+Latitude: 24.415347
+Longitude: 48.396236
+Altitude: 1388.76024
+</description>
+        <Point>
+          <coordinates>24.415347,48.396236,1388.76024</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>174</name>
+        <description>Track: 01023202301213122123
+Latitude: 24.415256
+Longitude: 48.396275
+Altitude: 1387.32768
+</description>
+        <Point>
+          <coordinates>24.415256,48.396275,1387.32768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>175</name>
+        <description>Track: 01023202301213122123
+Latitude: 24.415078
+Longitude: 48.396399
+Altitude: 1390.1928
+</description>
+        <Point>
+          <coordinates>24.415078,48.396399,1390.1928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>176</name>
+        <description>Track: 01023202301213122122
+Latitude: 24.415020
+Longitude: 48.396434
+Altitude: 1390.68048
+</description>
+        <Point>
+          <coordinates>24.415020,48.396434,1390.68048</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>177</name>
+        <description>Track: 01023202301213122120
+Latitude: 24.414824
+Longitude: 48.396506
+Altitude: 1393.0884
+</description>
+        <Point>
+          <coordinates>24.414824,48.396506,1393.0884</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>178</name>
+        <description>Track: 01023202301213122120
+Latitude: 24.414673
+Longitude: 48.396563
+Altitude: 1394.52096
+</description>
+        <Point>
+          <coordinates>24.414673,48.396563,1394.52096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>179</name>
+        <description>Track: 01023202301213122120
+Latitude: 24.414632
+Longitude: 48.396573
+Altitude: 1395.00864
+</description>
+        <Point>
+          <coordinates>24.414632,48.396573,1395.00864</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>180</name>
+        <description>Track: 01023202301213122120
+Latitude: 24.414518
+Longitude: 48.396669
+Altitude: 1396.4412
+</description>
+        <Point>
+          <coordinates>24.414518,48.396669,1396.4412</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>181</name>
+        <description>Track: 01023202301213122031
+Latitude: 24.414328
+Longitude: 48.396780
+Altitude: 1398.84912
+</description>
+        <Point>
+          <coordinates>24.414328,48.396780,1398.84912</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>182</name>
+        <description>Track: 01023202301213122013
+Latitude: 24.414153
+Longitude: 48.396864
+Altitude: 1401.74472
+</description>
+        <Point>
+          <coordinates>24.414153,48.396864,1401.74472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>183</name>
+        <description>Track: 01023202301213122013
+Latitude: 24.414001
+Longitude: 48.396973
+Altitude: 1405.09752
+</description>
+        <Point>
+          <coordinates>24.414001,48.396973,1405.09752</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>184</name>
+        <description>Track: 01023202301213122013
+Latitude: 24.413806
+Longitude: 48.397068
+Altitude: 1407.99312
+</description>
+        <Point>
+          <coordinates>24.413806,48.397068,1407.99312</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>185</name>
+        <description>Track: 01023202301213122012
+Latitude: 24.413645
+Longitude: 48.397155
+Altitude: 1411.34592
+</description>
+        <Point>
+          <coordinates>24.413645,48.397155,1411.34592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>186</name>
+        <description>Track: 01023202301213122010
+Latitude: 24.413454
+Longitude: 48.397221
+Altitude: 1414.7292
+</description>
+        <Point>
+          <coordinates>24.413454,48.397221,1414.7292</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>187</name>
+        <description>Track: 01023202301213122010
+Latitude: 24.413310
+Longitude: 48.397340
+Altitude: 1417.10664
+</description>
+        <Point>
+          <coordinates>24.413310,48.397340,1417.10664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>188</name>
+        <description>Track: 01023202301213122010
+Latitude: 24.413240
+Longitude: 48.397355
+Altitude: 1419.05736
+</description>
+        <Point>
+          <coordinates>24.413240,48.397355,1419.05736</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>189</name>
+        <description>Track: 01023202301213122010
+Latitude: 24.413157
+Longitude: 48.397433
+Altitude: 1420.9776
+</description>
+        <Point>
+          <coordinates>24.413157,48.397433,1420.9776</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>190</name>
+        <description>Track: 01023202301213122010
+Latitude: 24.413046
+Longitude: 48.397481
+Altitude: 1422.89784
+</description>
+        <Point>
+          <coordinates>24.413046,48.397481,1422.89784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>191</name>
+        <description>Track: 01023202301213122001
+Latitude: 24.412979
+Longitude: 48.397515
+Altitude: 1423.35504
+</description>
+        <Point>
+          <coordinates>24.412979,48.397515,1423.35504</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>192</name>
+        <description>Track: 01023202301213120223
+Latitude: 24.412809
+Longitude: 48.397542
+Altitude: 1423.35504
+</description>
+        <Point>
+          <coordinates>24.412809,48.397542,1423.35504</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>193</name>
+        <description>Track: 01023202301213120223
+Latitude: 24.412602
+Longitude: 48.397542
+Altitude: 1422.89784
+</description>
+        <Point>
+          <coordinates>24.412602,48.397542,1422.89784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>194</name>
+        <description>Track: 01023202301213122000
+Latitude: 24.412305
+Longitude: 48.397508
+Altitude: 1423.84272
+</description>
+        <Point>
+          <coordinates>24.412305,48.397508,1423.84272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>195</name>
+        <description>Track: 01023202301213122000
+Latitude: 24.412195
+Longitude: 48.397478
+Altitude: 1423.35504
+</description>
+        <Point>
+          <coordinates>24.412195,48.397478,1423.35504</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>196</name>
+        <description>Track: 01023202301213122000
+Latitude: 24.412062
+Longitude: 48.397470
+Altitude: 1424.3304
+</description>
+        <Point>
+          <coordinates>24.412062,48.397470,1424.3304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>197</name>
+        <description>Track: 01023202301213122000
+Latitude: 24.411900
+Longitude: 48.397431
+Altitude: 1424.81808
+</description>
+        <Point>
+          <coordinates>24.411900,48.397431,1424.81808</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>198</name>
+        <description>Track: 01023202301213122000
+Latitude: 24.411774
+Longitude: 48.397439
+Altitude: 1425.76296
+</description>
+        <Point>
+          <coordinates>24.411774,48.397439,1425.76296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>199</name>
+        <description>Track: 01023202301213033111
+Latitude: 24.411542
+Longitude: 48.397425
+Altitude: 1428.17088
+</description>
+        <Point>
+          <coordinates>24.411542,48.397425,1428.17088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>200</name>
+        <description>Track: 01023202301213033111
+Latitude: 24.411406
+Longitude: 48.397376
+Altitude: 1431.55416
+</description>
+        <Point>
+          <coordinates>24.411406,48.397376,1431.55416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>201</name>
+        <description>Track: 01023202301213033111
+Latitude: 24.411344
+Longitude: 48.397382
+Altitude: 1432.98672
+</description>
+        <Point>
+          <coordinates>24.411344,48.397382,1432.98672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>202</name>
+        <description>Track: 01023202301213033111
+Latitude: 24.411182
+Longitude: 48.397378
+Altitude: 1436.8272
+</description>
+        <Point>
+          <coordinates>24.411182,48.397378,1436.8272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>203</name>
+        <description>Track: 01023202301213033111
+Latitude: 24.411125
+Longitude: 48.397371
+Altitude: 1437.80256
+</description>
+        <Point>
+          <coordinates>24.411125,48.397371,1437.80256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>204</name>
+        <description>Track: 01023202301213033111
+Latitude: 24.410978
+Longitude: 48.397371
+Altitude: 1440.66768
+</description>
+        <Point>
+          <coordinates>24.410978,48.397371,1440.66768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>205</name>
+        <description>Track: 01023202301213033110
+Latitude: 24.410681
+Longitude: 48.397392
+Altitude: 1441.64304
+</description>
+        <Point>
+          <coordinates>24.410681,48.397392,1441.64304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>206</name>
+        <description>Track: 01023202301213033110
+Latitude: 24.410529
+Longitude: 48.397416
+Altitude: 1441.15536
+</description>
+        <Point>
+          <coordinates>24.410529,48.397416,1441.15536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>207</name>
+        <description>Track: 01023202301213033110
+Latitude: 24.410310
+Longitude: 48.397446
+Altitude: 1441.64304
+</description>
+        <Point>
+          <coordinates>24.410310,48.397446,1441.64304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>208</name>
+        <description>Track: 01023202301213033101
+Latitude: 24.410063
+Longitude: 48.397479
+Altitude: 1441.15536
+</description>
+        <Point>
+          <coordinates>24.410063,48.397479,1441.15536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>209</name>
+        <description>Track: 01023202301213033101
+Latitude: 24.409782
+Longitude: 48.397500
+Altitude: 1441.15536
+</description>
+        <Point>
+          <coordinates>24.409782,48.397500,1441.15536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>210</name>
+        <description>Track: 01023202301213033100
+Latitude: 24.409510
+Longitude: 48.397506
+Altitude: 1443.0756
+</description>
+        <Point>
+          <coordinates>24.409510,48.397506,1443.0756</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>211</name>
+        <description>Track: 01023202301213031322
+Latitude: 24.409330
+Longitude: 48.397576
+Altitude: 1444.05096
+</description>
+        <Point>
+          <coordinates>24.409330,48.397576,1444.05096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>212</name>
+        <description>Track: 01023202301213031322
+Latitude: 24.409113
+Longitude: 48.397625
+Altitude: 1444.99584
+</description>
+        <Point>
+          <coordinates>24.409113,48.397625,1444.99584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>213</name>
+        <description>Track: 01023202301213031322
+Latitude: 24.409090
+Longitude: 48.397638
+Altitude: 1445.48352
+</description>
+        <Point>
+          <coordinates>24.409090,48.397638,1445.48352</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>214</name>
+        <description>Track: 01023202301213031322
+Latitude: 24.408875
+Longitude: 48.397715
+Altitude: 1446.4284
+</description>
+        <Point>
+          <coordinates>24.408875,48.397715,1446.4284</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>215</name>
+        <description>Track: 01023202301213031233
+Latitude: 24.408653
+Longitude: 48.397804
+Altitude: 1445.48352
+</description>
+        <Point>
+          <coordinates>24.408653,48.397804,1445.48352</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>216</name>
+        <description>Track: 01023202301213031231
+Latitude: 24.408448
+Longitude: 48.397898
+Altitude: 1445.9712
+</description>
+        <Point>
+          <coordinates>24.408448,48.397898,1445.9712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>217</name>
+        <description>Track: 01023202301213031231
+Latitude: 24.408326
+Longitude: 48.397936
+Altitude: 1445.9712
+</description>
+        <Point>
+          <coordinates>24.408326,48.397936,1445.9712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>218</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.408148
+Longitude: 48.397985
+Altitude: 1446.4284
+</description>
+        <Point>
+          <coordinates>24.408148,48.397985,1446.4284</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>219</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.408004
+Longitude: 48.398039
+Altitude: 1446.91608
+</description>
+        <Point>
+          <coordinates>24.408004,48.398039,1446.91608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>220</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.407819
+Longitude: 48.398085
+Altitude: 1447.89144
+</description>
+        <Point>
+          <coordinates>24.407819,48.398085,1447.89144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>221</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.407645
+Longitude: 48.398168
+Altitude: 1448.83632
+</description>
+        <Point>
+          <coordinates>24.407645,48.398168,1448.83632</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>222</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.407595
+Longitude: 48.398165
+Altitude: 1449.81168
+</description>
+        <Point>
+          <coordinates>24.407595,48.398165,1449.81168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>223</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407494
+Longitude: 48.398182
+Altitude: 1449.81168
+</description>
+        <Point>
+          <coordinates>24.407494,48.398182,1449.81168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>224</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407476
+Longitude: 48.398204
+Altitude: 1450.75656
+</description>
+        <Point>
+          <coordinates>24.407476,48.398204,1450.75656</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>225</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.407503
+Longitude: 48.398195
+Altitude: 1450.29936
+</description>
+        <Point>
+          <coordinates>24.407503,48.398195,1450.29936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>226</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.407521
+Longitude: 48.398174
+Altitude: 1451.24424
+</description>
+        <Point>
+          <coordinates>24.407521,48.398174,1451.24424</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>227</name>
+        <description>Track: 01023202301213031230
+Latitude: 24.407520
+Longitude: 48.398169
+Altitude: 1449.81168
+</description>
+        <Point>
+          <coordinates>24.407520,48.398169,1449.81168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>228</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407487
+Longitude: 48.398139
+Altitude: 1446.4284
+</description>
+        <Point>
+          <coordinates>24.407487,48.398139,1446.4284</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>229</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407420
+Longitude: 48.398069
+Altitude: 1443.56328
+</description>
+        <Point>
+          <coordinates>24.407420,48.398069,1443.56328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>230</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407317
+Longitude: 48.398012
+Altitude: 1441.15536
+</description>
+        <Point>
+          <coordinates>24.407317,48.398012,1441.15536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>231</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407226
+Longitude: 48.397980
+Altitude: 1437.80256
+</description>
+        <Point>
+          <coordinates>24.407226,48.397980,1437.80256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>232</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407216
+Longitude: 48.397971
+Altitude: 1434.41928
+</description>
+        <Point>
+          <coordinates>24.407216,48.397971,1434.41928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>233</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407219
+Longitude: 48.397961
+Altitude: 1431.06648
+</description>
+        <Point>
+          <coordinates>24.407219,48.397961,1431.06648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>234</name>
+        <description>Track: 01023202301213031221
+Latitude: 24.407152
+Longitude: 48.397874
+Altitude: 1429.60344
+</description>
+        <Point>
+          <coordinates>24.407152,48.397874,1429.60344</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>235</name>
+        <description>Track: 01023202301213031222
+Latitude: 24.406781
+Longitude: 48.397652
+Altitude: 1427.6832
+</description>
+        <Point>
+          <coordinates>24.406781,48.397652,1427.6832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>236</name>
+        <description>Track: 01023202301213033000
+Latitude: 24.406597
+Longitude: 48.397497
+Altitude: 1426.25064
+</description>
+        <Point>
+          <coordinates>24.406597,48.397497,1426.25064</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>237</name>
+        <description>Track: 01023202301213033000
+Latitude: 24.406458
+Longitude: 48.397387
+Altitude: 1428.17088
+</description>
+        <Point>
+          <coordinates>24.406458,48.397387,1428.17088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>238</name>
+        <description>Track: 01023202301213033000
+Latitude: 24.406389
+Longitude: 48.397332
+Altitude: 1428.17088
+</description>
+        <Point>
+          <coordinates>24.406389,48.397332,1428.17088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>239</name>
+        <description>Track: 01023202301213033000
+Latitude: 24.406352
+Longitude: 48.397256
+Altitude: 1432.01136
+</description>
+        <Point>
+          <coordinates>24.406352,48.397256,1432.01136</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>240</name>
+        <description>Track: 01023202301213033000
+Latitude: 24.406189
+Longitude: 48.397181
+Altitude: 1434.90696
+</description>
+        <Point>
+          <coordinates>24.406189,48.397181,1434.90696</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>241</name>
+        <description>Track: 01023202301213033002
+Latitude: 24.406141
+Longitude: 48.397142
+Altitude: 1438.25976
+</description>
+        <Point>
+          <coordinates>24.406141,48.397142,1438.25976</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>242</name>
+        <description>Track: 01023202301213032113
+Latitude: 24.406042
+Longitude: 48.397036
+Altitude: 1440.66768
+</description>
+        <Point>
+          <coordinates>24.406042,48.397036,1440.66768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>243</name>
+        <description>Track: 01023202301213032113
+Latitude: 24.406081
+Longitude: 48.396905
+Altitude: 1438.74744
+</description>
+        <Point>
+          <coordinates>24.406081,48.396905,1438.74744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>244</name>
+        <description>Track: 01023202301213032131
+Latitude: 24.406126
+Longitude: 48.396753
+Altitude: 1436.33952
+</description>
+        <Point>
+          <coordinates>24.406126,48.396753,1436.33952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>245</name>
+        <description>Track: 01023202301213033020
+Latitude: 24.406174
+Longitude: 48.396533
+Altitude: 1433.4744
+</description>
+        <Point>
+          <coordinates>24.406174,48.396533,1433.4744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>246</name>
+        <description>Track: 01023202301213033022
+Latitude: 24.406215
+Longitude: 48.396445
+Altitude: 1430.09112
+</description>
+        <Point>
+          <coordinates>24.406215,48.396445,1430.09112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>247</name>
+        <description>Track: 01023202301213033022
+Latitude: 24.406352
+Longitude: 48.396214
+Altitude: 1427.6832
+</description>
+        <Point>
+          <coordinates>24.406352,48.396214,1427.6832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>248</name>
+        <description>Track: 01023202301213033200
+Latitude: 24.406432
+Longitude: 48.396032
+Altitude: 1424.3304
+</description>
+        <Point>
+          <coordinates>24.406432,48.396032,1424.3304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>249</name>
+        <description>Track: 01023202301213033200
+Latitude: 24.406442
+Longitude: 48.395930
+Altitude: 1421.4348
+</description>
+        <Point>
+          <coordinates>24.406442,48.395930,1421.4348</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>250</name>
+        <description>Track: 01023202301213033202
+Latitude: 24.406415
+Longitude: 48.395805
+Altitude: 1418.082
+</description>
+        <Point>
+          <coordinates>24.406415,48.395805,1418.082</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>251</name>
+        <description>Track: 01023202301213033202
+Latitude: 24.406369
+Longitude: 48.395713
+Altitude: 1415.1864
+</description>
+        <Point>
+          <coordinates>24.406369,48.395713,1415.1864</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>252</name>
+        <description>Track: 01023202301213033202
+Latitude: 24.406383
+Longitude: 48.395629
+Altitude: 1411.8336
+</description>
+        <Point>
+          <coordinates>24.406383,48.395629,1411.8336</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>253</name>
+        <description>Track: 01023202301213033202
+Latitude: 24.406278
+Longitude: 48.395514
+Altitude: 1408.938
+</description>
+        <Point>
+          <coordinates>24.406278,48.395514,1408.938</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>254</name>
+        <description>Track: 01023202301213033220
+Latitude: 24.406138
+Longitude: 48.395394
+Altitude: 1405.5852
+</description>
+        <Point>
+          <coordinates>24.406138,48.395394,1405.5852</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>255</name>
+        <description>Track: 01023202301213032331
+Latitude: 24.405980
+Longitude: 48.395363
+Altitude: 1402.2324
+</description>
+        <Point>
+          <coordinates>24.405980,48.395363,1402.2324</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>256</name>
+        <description>Track: 01023202301213032331
+Latitude: 24.405907
+Longitude: 48.395313
+Altitude: 1401.25704
+</description>
+        <Point>
+          <coordinates>24.405907,48.395313,1401.25704</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>257</name>
+        <description>Track: 01023202301213032331
+Latitude: 24.405713
+Longitude: 48.395267
+Altitude: 1398.36144
+</description>
+        <Point>
+          <coordinates>24.405713,48.395267,1398.36144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>258</name>
+        <description>Track: 01023202301213032331
+Latitude: 24.405709
+Longitude: 48.395263
+Altitude: 1395.00864
+</description>
+        <Point>
+          <coordinates>24.405709,48.395263,1395.00864</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>259</name>
+        <description>Track: 01023202301213032331
+Latitude: 24.405537
+Longitude: 48.395234
+Altitude: 1391.65584
+</description>
+        <Point>
+          <coordinates>24.405537,48.395234,1391.65584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>260</name>
+        <description>Track: 01023202301213032330
+Latitude: 24.405386
+Longitude: 48.395171
+Altitude: 1388.27256
+</description>
+        <Point>
+          <coordinates>24.405386,48.395171,1388.27256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>261</name>
+        <description>Track: 01023202301213032330
+Latitude: 24.405326
+Longitude: 48.395123
+Altitude: 1384.91976
+</description>
+        <Point>
+          <coordinates>24.405326,48.395123,1384.91976</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>262</name>
+        <description>Track: 01023202301213032332
+Latitude: 24.405212
+Longitude: 48.395085
+Altitude: 1382.51184
+</description>
+        <Point>
+          <coordinates>24.405212,48.395085,1382.51184</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>263</name>
+        <description>Track: 01023202301213032332
+Latitude: 24.405135
+Longitude: 48.395058
+Altitude: 1379.15904
+</description>
+        <Point>
+          <coordinates>24.405135,48.395058,1379.15904</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>264</name>
+        <description>Track: 01023202301213032332
+Latitude: 24.404996
+Longitude: 48.395061
+Altitude: 1376.75112
+</description>
+        <Point>
+          <coordinates>24.404996,48.395061,1376.75112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>265</name>
+        <description>Track: 01023202301213032332
+Latitude: 24.404907
+Longitude: 48.395025
+Altitude: 1373.85552
+</description>
+        <Point>
+          <coordinates>24.404907,48.395025,1373.85552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>266</name>
+        <description>Track: 01023202301213032332
+Latitude: 24.404814
+Longitude: 48.394972
+Altitude: 1370.50272
+</description>
+        <Point>
+          <coordinates>24.404814,48.394972,1370.50272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>267</name>
+        <description>Track: 01023202301213032332
+Latitude: 24.404840
+Longitude: 48.394856
+Altitude: 1367.60712
+</description>
+        <Point>
+          <coordinates>24.404840,48.394856,1367.60712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>268</name>
+        <description>Track: 01023202301213032323
+Latitude: 24.404734
+Longitude: 48.394815
+Altitude: 1364.742
+</description>
+        <Point>
+          <coordinates>24.404734,48.394815,1364.742</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>269</name>
+        <description>Track: 01023202301213210101
+Latitude: 24.404707
+Longitude: 48.394775
+Altitude: 1358.00592
+</description>
+        <Point>
+          <coordinates>24.404707,48.394775,1358.00592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>270</name>
+        <description>Track: 01023202301213210101
+Latitude: 24.404478
+Longitude: 48.394682
+Altitude: 1355.11032
+</description>
+        <Point>
+          <coordinates>24.404478,48.394682,1355.11032</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>271</name>
+        <description>Track: 01023202301213210101
+Latitude: 24.404365
+Longitude: 48.394614
+Altitude: 1353.19008
+</description>
+        <Point>
+          <coordinates>24.404365,48.394614,1353.19008</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>272</name>
+        <description>Track: 01023202301213210101
+Latitude: 24.404223
+Longitude: 48.394511
+Altitude: 1350.29448
+</description>
+        <Point>
+          <coordinates>24.404223,48.394511,1350.29448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>273</name>
+        <description>Track: 01023202301213210103
+Latitude: 24.404143
+Longitude: 48.394414
+Altitude: 1347.42936
+</description>
+        <Point>
+          <coordinates>24.404143,48.394414,1347.42936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>274</name>
+        <description>Track: 01023202301213210102
+Latitude: 24.404017
+Longitude: 48.394290
+Altitude: 1344.04608
+</description>
+        <Point>
+          <coordinates>24.404017,48.394290,1344.04608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>275</name>
+        <description>Track: 01023202301213210102
+Latitude: 24.403982
+Longitude: 48.394281
+Altitude: 1342.61352
+</description>
+        <Point>
+          <coordinates>24.403982,48.394281,1342.61352</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>276</name>
+        <description>Track: 01023202301213210102
+Latitude: 24.404002
+Longitude: 48.394266
+Altitude: 1339.26072
+</description>
+        <Point>
+          <coordinates>24.404002,48.394266,1339.26072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>277</name>
+        <description>Track: 01023202301213210120
+Latitude: 24.403781
+Longitude: 48.394010
+Altitude: 1336.36512
+</description>
+        <Point>
+          <coordinates>24.403781,48.394010,1336.36512</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>278</name>
+        <description>Track: 01023202301213210120
+Latitude: 24.403706
+Longitude: 48.393913
+Altitude: 1335.87744
+</description>
+        <Point>
+          <coordinates>24.403706,48.393913,1335.87744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>279</name>
+        <description>Track: 01023202301213210120
+Latitude: 24.403663
+Longitude: 48.393866
+Altitude: 1334.44488
+</description>
+        <Point>
+          <coordinates>24.403663,48.393866,1334.44488</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>280</name>
+        <description>Track: 01023202301213210120
+Latitude: 24.403578
+Longitude: 48.393813
+Altitude: 1332.52464
+</description>
+        <Point>
+          <coordinates>24.403578,48.393813,1332.52464</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>281</name>
+        <description>Track: 01023202301213210122
+Latitude: 24.403394
+Longitude: 48.393691
+Altitude: 1325.30088
+</description>
+        <Point>
+          <coordinates>24.403394,48.393691,1325.30088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>282</name>
+        <description>Track: 01023202301213210033
+Latitude: 24.403354
+Longitude: 48.393639
+Altitude: 1321.94808
+</description>
+        <Point>
+          <coordinates>24.403354,48.393639,1321.94808</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>283</name>
+        <description>Track: 01023202301213210033
+Latitude: 24.403349
+Longitude: 48.393626
+Altitude: 1321.0032
+</description>
+        <Point>
+          <coordinates>24.403349,48.393626,1321.0032</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>284</name>
+        <description>Track: 01023202301213210033
+Latitude: 24.403240
+Longitude: 48.393448
+Altitude: 1317.61992
+</description>
+        <Point>
+          <coordinates>24.403240,48.393448,1317.61992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>285</name>
+        <description>Track: 01023202301213210211
+Latitude: 24.403107
+Longitude: 48.393389
+Altitude: 1314.26712
+</description>
+        <Point>
+          <coordinates>24.403107,48.393389,1314.26712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>286</name>
+        <description>Track: 01023202301213210211
+Latitude: 24.402988
+Longitude: 48.393311
+Altitude: 1311.37152
+</description>
+        <Point>
+          <coordinates>24.402988,48.393311,1311.37152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>287</name>
+        <description>Track: 01023202301213210211
+Latitude: 24.402880
+Longitude: 48.393243
+Altitude: 1308.5064
+</description>
+        <Point>
+          <coordinates>24.402880,48.393243,1308.5064</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>288</name>
+        <description>Track: 01023202301213210210
+Latitude: 24.402599
+Longitude: 48.393142
+Altitude: 1305.12312
+</description>
+        <Point>
+          <coordinates>24.402599,48.393142,1305.12312</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>289</name>
+        <description>Track: 01023202301213210212
+Latitude: 24.402220
+Longitude: 48.393049
+Altitude: 1299.3624
+</description>
+        <Point>
+          <coordinates>24.402220,48.393049,1299.3624</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>290</name>
+        <description>Track: 01023202301213210212
+Latitude: 24.402077
+Longitude: 48.392982
+Altitude: 1296.4668
+</description>
+        <Point>
+          <coordinates>24.402077,48.392982,1296.4668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>291</name>
+        <description>Track: 01023202301213210203
+Latitude: 24.401921
+Longitude: 48.392928
+Altitude: 1295.03424
+</description>
+        <Point>
+          <coordinates>24.401921,48.392928,1295.03424</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>292</name>
+        <description>Track: 01023202301213210203
+Latitude: 24.401781
+Longitude: 48.392870
+Altitude: 1291.68144
+</description>
+        <Point>
+          <coordinates>24.401781,48.392870,1291.68144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>293</name>
+        <description>Track: 01023202301213210203
+Latitude: 24.401737
+Longitude: 48.392734
+Altitude: 1288.29816
+</description>
+        <Point>
+          <coordinates>24.401737,48.392734,1288.29816</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>294</name>
+        <description>Track: 01023202301213210203
+Latitude: 24.401735
+Longitude: 48.392722
+Altitude: 1288.29816
+</description>
+        <Point>
+          <coordinates>24.401735,48.392722,1288.29816</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>295</name>
+        <description>Track: 01023202301213210221
+Latitude: 24.401701
+Longitude: 48.392632
+Altitude: 1284.94536
+</description>
+        <Point>
+          <coordinates>24.401701,48.392632,1284.94536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>296</name>
+        <description>Track: 01023202301213210221
+Latitude: 24.401680
+Longitude: 48.392563
+Altitude: 1281.56208
+</description>
+        <Point>
+          <coordinates>24.401680,48.392563,1281.56208</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>297</name>
+        <description>Track: 01023202301213210221
+Latitude: 24.401653
+Longitude: 48.392465
+Altitude: 1278.69696
+</description>
+        <Point>
+          <coordinates>24.401653,48.392465,1278.69696</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>298</name>
+        <description>Track: 01023202301213210221
+Latitude: 24.401623
+Longitude: 48.392397
+Altitude: 1275.31368
+</description>
+        <Point>
+          <coordinates>24.401623,48.392397,1275.31368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>299</name>
+        <description>Track: 01023202301213210223
+Latitude: 24.401494
+Longitude: 48.392292
+Altitude: 1270.52832
+</description>
+        <Point>
+          <coordinates>24.401494,48.392292,1270.52832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>300</name>
+        <description>Track: 01023202301213210223
+Latitude: 24.401418
+Longitude: 48.392159
+Altitude: 1264.27992
+</description>
+        <Point>
+          <coordinates>24.401418,48.392159,1264.27992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>301</name>
+        <description>Track: 01023202301213210223
+Latitude: 24.401376
+Longitude: 48.392134
+Altitude: 1262.35968
+</description>
+        <Point>
+          <coordinates>24.401376,48.392134,1262.35968</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>302</name>
+        <description>Track: 01023202301213210223
+Latitude: 24.401351
+Longitude: 48.392127
+Altitude: 1261.872
+</description>
+        <Point>
+          <coordinates>24.401351,48.392127,1261.872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>303</name>
+        <description>Track: 01023202301213212000
+Latitude: 24.401186
+Longitude: 48.391936
+Altitude: 1258.03152
+</description>
+        <Point>
+          <coordinates>24.401186,48.391936,1258.03152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>304</name>
+        <description>Track: 01023202301213212000
+Latitude: 24.401081
+Longitude: 48.391839
+Altitude: 1255.13592
+</description>
+        <Point>
+          <coordinates>24.401081,48.391839,1255.13592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>305</name>
+        <description>Track: 01023202301213212000
+Latitude: 24.400968
+Longitude: 48.391742
+Altitude: 1251.78312
+</description>
+        <Point>
+          <coordinates>24.400968,48.391742,1251.78312</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>306</name>
+        <description>Track: 01023202301213212002
+Latitude: 24.400947
+Longitude: 48.391638
+Altitude: 1248.39984
+</description>
+        <Point>
+          <coordinates>24.400947,48.391638,1248.39984</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>307</name>
+        <description>Track: 01023202301213212002
+Latitude: 24.400840
+Longitude: 48.391486
+Altitude: 1245.53472
+</description>
+        <Point>
+          <coordinates>24.400840,48.391486,1245.53472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>308</name>
+        <description>Track: 01023202301213212002
+Latitude: 24.400673
+Longitude: 48.391366
+Altitude: 1244.55936
+</description>
+        <Point>
+          <coordinates>24.400673,48.391366,1244.55936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>309</name>
+        <description>Track: 01023202301213203131
+Latitude: 24.400611
+Longitude: 48.391338
+Altitude: 1245.53472
+</description>
+        <Point>
+          <coordinates>24.400611,48.391338,1245.53472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>310</name>
+        <description>Track: 01023202301213203131
+Latitude: 24.400495
+Longitude: 48.391269
+Altitude: 1245.04704
+</description>
+        <Point>
+          <coordinates>24.400495,48.391269,1245.04704</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>311</name>
+        <description>Track: 01023202301213203131
+Latitude: 24.400252
+Longitude: 48.391188
+Altitude: 1242.15144
+</description>
+        <Point>
+          <coordinates>24.400252,48.391188,1242.15144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>312</name>
+        <description>Track: 01023202301213203131
+Latitude: 24.400048
+Longitude: 48.391108
+Altitude: 1238.79864
+</description>
+        <Point>
+          <coordinates>24.400048,48.391108,1238.79864</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>313</name>
+        <description>Track: 01023202301213203130
+Latitude: 24.399901
+Longitude: 48.391030
+Altitude: 1235.44584
+</description>
+        <Point>
+          <coordinates>24.399901,48.391030,1235.44584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>314</name>
+        <description>Track: 01023202301213203132
+Latitude: 24.399623
+Longitude: 48.390940
+Altitude: 1234.95816
+</description>
+        <Point>
+          <coordinates>24.399623,48.390940,1234.95816</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>315</name>
+        <description>Track: 01023202301213203132
+Latitude: 24.399451
+Longitude: 48.390912
+Altitude: 1235.44584
+</description>
+        <Point>
+          <coordinates>24.399451,48.390912,1235.44584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>316</name>
+        <description>Track: 01023202301213203132
+Latitude: 24.399373
+Longitude: 48.390892
+Altitude: 1236.39072
+</description>
+        <Point>
+          <coordinates>24.399373,48.390892,1236.39072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>317</name>
+        <description>Track: 01023202301213203132
+Latitude: 24.399331
+Longitude: 48.390811
+Altitude: 1239.74352
+</description>
+        <Point>
+          <coordinates>24.399331,48.390811,1239.74352</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>318</name>
+        <description>Track: 01023202301213203301
+Latitude: 24.399041
+Longitude: 48.390543
+Altitude: 1243.1268
+</description>
+        <Point>
+          <coordinates>24.399041,48.390543,1243.1268</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>319</name>
+        <description>Track: 01023202301213203301
+Latitude: 24.398990
+Longitude: 48.390484
+Altitude: 1245.99192
+</description>
+        <Point>
+          <coordinates>24.398990,48.390484,1245.99192</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>320</name>
+        <description>Track: 01023202301213203303
+Latitude: 24.398786
+Longitude: 48.390284
+Altitude: 1248.88752
+</description>
+        <Point>
+          <coordinates>24.398786,48.390284,1248.88752</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>321</name>
+        <description>Track: 01023202301213203303
+Latitude: 24.398663
+Longitude: 48.390193
+Altitude: 1252.24032
+</description>
+        <Point>
+          <coordinates>24.398663,48.390193,1252.24032</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>322</name>
+        <description>Track: 01023202301213203302
+Latitude: 24.398246
+Longitude: 48.390036
+Altitude: 1254.19104
+</description>
+        <Point>
+          <coordinates>24.398246,48.390036,1254.19104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>323</name>
+        <description>Track: 01023202301213203213
+Latitude: 24.397870
+Longitude: 48.390045
+Altitude: 1255.13592
+</description>
+        <Point>
+          <coordinates>24.397870,48.390045,1255.13592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>324</name>
+        <description>Track: 01023202301213203213
+Latitude: 24.397861
+Longitude: 48.390050
+Altitude: 1255.13592
+</description>
+        <Point>
+          <coordinates>24.397861,48.390050,1255.13592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>325</name>
+        <description>Track: 01023202301213203213
+Latitude: 24.397777
+Longitude: 48.390118
+Altitude: 1255.13592
+</description>
+        <Point>
+          <coordinates>24.397777,48.390118,1255.13592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>326</name>
+        <description>Track: 01023202301213203213
+Latitude: 24.397593
+Longitude: 48.390231
+Altitude: 1254.64824
+</description>
+        <Point>
+          <coordinates>24.397593,48.390231,1254.64824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>327</name>
+        <description>Track: 01023202301213203213
+Latitude: 24.397565
+Longitude: 48.390262
+Altitude: 1254.64824
+</description>
+        <Point>
+          <coordinates>24.397565,48.390262,1254.64824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>328</name>
+        <description>Track: 01023202301213203213
+Latitude: 24.397393
+Longitude: 48.390305
+Altitude: 1254.64824
+</description>
+        <Point>
+          <coordinates>24.397393,48.390305,1254.64824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>329</name>
+        <description>Track: 01023202301213203211
+Latitude: 24.397294
+Longitude: 48.390360
+Altitude: 1254.64824
+</description>
+        <Point>
+          <coordinates>24.397294,48.390360,1254.64824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>330</name>
+        <description>Track: 01023202301213203210
+Latitude: 24.397134
+Longitude: 48.390446
+Altitude: 1254.19104
+</description>
+        <Point>
+          <coordinates>24.397134,48.390446,1254.19104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>331</name>
+        <description>Track: 01023202301213203210
+Latitude: 24.396861
+Longitude: 48.390548
+Altitude: 1253.21568
+</description>
+        <Point>
+          <coordinates>24.396861,48.390548,1253.21568</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>332</name>
+        <description>Track: 01023202301213203210
+Latitude: 24.396687
+Longitude: 48.390557
+Altitude: 1251.78312
+</description>
+        <Point>
+          <coordinates>24.396687,48.390557,1251.78312</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>333</name>
+        <description>Track: 01023202301213203201
+Latitude: 24.396499
+Longitude: 48.390619
+Altitude: 1251.29544
+</description>
+        <Point>
+          <coordinates>24.396499,48.390619,1251.29544</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>334</name>
+        <description>Track: 01023202301213203023
+Latitude: 24.396240
+Longitude: 48.390740
+Altitude: 1253.21568
+</description>
+        <Point>
+          <coordinates>24.396240,48.390740,1253.21568</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>335</name>
+        <description>Track: 01023202301213203023
+Latitude: 24.395987
+Longitude: 48.390793
+Altitude: 1254.64824
+</description>
+        <Point>
+          <coordinates>24.395987,48.390793,1254.64824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>336</name>
+        <description>Track: 01023202301213203022
+Latitude: 24.395715
+Longitude: 48.390820
+Altitude: 1254.19104
+</description>
+        <Point>
+          <coordinates>24.395715,48.390820,1254.19104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>337</name>
+        <description>Track: 01023202301213203022
+Latitude: 24.395498
+Longitude: 48.390820
+Altitude: 1254.19104
+</description>
+        <Point>
+          <coordinates>24.395498,48.390820,1254.19104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>338</name>
+        <description>Track: 01023202301213203022
+Latitude: 24.395152
+Longitude: 48.390780
+Altitude: 1258.03152
+</description>
+        <Point>
+          <coordinates>24.395152,48.390780,1258.03152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>339</name>
+        <description>Track: 01023202301213202133
+Latitude: 24.394994
+Longitude: 48.390797
+Altitude: 1254.19104
+</description>
+        <Point>
+          <coordinates>24.394994,48.390797,1254.19104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>340</name>
+        <description>Track: 01023202301213202133
+Latitude: 24.394806
+Longitude: 48.390809
+Altitude: 1254.64824
+</description>
+        <Point>
+          <coordinates>24.394806,48.390809,1254.64824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>341</name>
+        <description>Track: 01023202301213202132
+Latitude: 24.394404
+Longitude: 48.390858
+Altitude: 1252.24032
+</description>
+        <Point>
+          <coordinates>24.394404,48.390858,1252.24032</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>342</name>
+        <description>Track: 01023202301213202132
+Latitude: 24.394240
+Longitude: 48.390883
+Altitude: 1251.29544
+</description>
+        <Point>
+          <coordinates>24.394240,48.390883,1251.29544</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>343</name>
+        <description>Track: 01023202301213202132
+Latitude: 24.393928
+Longitude: 48.390901
+Altitude: 1247.45496
+</description>
+        <Point>
+          <coordinates>24.393928,48.390901,1247.45496</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>344</name>
+        <description>Track: 01023202301213202132
+Latitude: 24.393841
+Longitude: 48.390896
+Altitude: 1244.55936
+</description>
+        <Point>
+          <coordinates>24.393841,48.390896,1244.55936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>345</name>
+        <description>Track: 01023202301213202132
+Latitude: 24.393808
+Longitude: 48.390872
+Altitude: 1241.20656
+</description>
+        <Point>
+          <coordinates>24.393808,48.390872,1241.20656</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>346</name>
+        <description>Track: 01023202301213202123
+Latitude: 24.393768
+Longitude: 48.390770
+Altitude: 1238.31096
+</description>
+        <Point>
+          <coordinates>24.393768,48.390770,1238.31096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>347</name>
+        <description>Track: 01023202301213202301
+Latitude: 24.393486
+Longitude: 48.390593
+Altitude: 1235.44584
+</description>
+        <Point>
+          <coordinates>24.393486,48.390593,1235.44584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>348</name>
+        <description>Track: 01023202301213202301
+Latitude: 24.393094
+Longitude: 48.390445
+Altitude: 1233.03792
+</description>
+        <Point>
+          <coordinates>24.393094,48.390445,1233.03792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>349</name>
+        <description>Track: 01023202301213202302
+Latitude: 24.392879
+Longitude: 48.390300
+Altitude: 1229.19744
+</description>
+        <Point>
+          <coordinates>24.392879,48.390300,1229.19744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>350</name>
+        <description>Track: 01023202301213202302
+Latitude: 24.392543
+Longitude: 48.390091
+Altitude: 1227.7344
+</description>
+        <Point>
+          <coordinates>24.392543,48.390091,1227.7344</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>351</name>
+        <description>Track: 01023202301213202213
+Latitude: 24.392107
+Longitude: 48.389994
+Altitude: 1226.78952
+</description>
+        <Point>
+          <coordinates>24.392107,48.389994,1226.78952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>352</name>
+        <description>Track: 01023202301213202231
+Latitude: 24.391824
+Longitude: 48.389875
+Altitude: 1226.78952
+</description>
+        <Point>
+          <coordinates>24.391824,48.389875,1226.78952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>353</name>
+        <description>Track: 01023202301213202230
+Latitude: 24.391495
+Longitude: 48.389826
+Altitude: 1225.32648
+</description>
+        <Point>
+          <coordinates>24.391495,48.389826,1225.32648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>354</name>
+        <description>Track: 01023202301213202230
+Latitude: 24.391234
+Longitude: 48.389865
+Altitude: 1223.40624
+</description>
+        <Point>
+          <coordinates>24.391234,48.389865,1223.40624</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>355</name>
+        <description>Track: 01023202301213202221
+Latitude: 24.390946
+Longitude: 48.389926
+Altitude: 1220.54112
+</description>
+        <Point>
+          <coordinates>24.390946,48.389926,1220.54112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>356</name>
+        <description>Track: 01023202301213202221
+Latitude: 24.390753
+Longitude: 48.389953
+Altitude: 1220.54112
+</description>
+        <Point>
+          <coordinates>24.390753,48.389953,1220.54112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>357</name>
+        <description>Track: 01023202301213202203
+Latitude: 24.390534
+Longitude: 48.389998
+Altitude: 1217.64552
+</description>
+        <Point>
+          <coordinates>24.390534,48.389998,1217.64552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>358</name>
+        <description>Track: 01023202301213202202
+Latitude: 24.390293
+Longitude: 48.390163
+Altitude: 1215.2376
+</description>
+        <Point>
+          <coordinates>24.390293,48.390163,1215.2376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>359</name>
+        <description>Track: 01023202301213202202
+Latitude: 24.389861
+Longitude: 48.390134
+Altitude: 1212.37248
+</description>
+        <Point>
+          <coordinates>24.389861,48.390134,1212.37248</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>360</name>
+        <description>Track: 01023202301213202202
+Latitude: 24.389704
+Longitude: 48.390074
+Altitude: 1211.39712
+</description>
+        <Point>
+          <coordinates>24.389704,48.390074,1211.39712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>361</name>
+        <description>Track: 01023202301212313331
+Latitude: 24.389260
+Longitude: 48.389901
+Altitude: 1210.90944
+</description>
+        <Point>
+          <coordinates>24.389260,48.389901,1210.90944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>362</name>
+        <description>Track: 01023202301212313331
+Latitude: 24.389163
+Longitude: 48.389935
+Altitude: 1211.39712
+</description>
+        <Point>
+          <coordinates>24.389163,48.389935,1211.39712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>363</name>
+        <description>Track: 01023202301212313313
+Latitude: 24.389094
+Longitude: 48.389971
+Altitude: 1214.29272
+</description>
+        <Point>
+          <coordinates>24.389094,48.389971,1214.29272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>364</name>
+        <description>Track: 01023202301212313313
+Latitude: 24.389005
+Longitude: 48.390070
+Altitude: 1217.64552
+</description>
+        <Point>
+          <coordinates>24.389005,48.390070,1217.64552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>365</name>
+        <description>Track: 01023202301212313312
+Latitude: 24.388765
+Longitude: 48.390158
+Altitude: 1220.54112
+</description>
+        <Point>
+          <coordinates>24.388765,48.390158,1220.54112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>366</name>
+        <description>Track: 01023202301212313312
+Latitude: 24.388680
+Longitude: 48.390162
+Altitude: 1223.40624
+</description>
+        <Point>
+          <coordinates>24.388680,48.390162,1223.40624</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>367</name>
+        <description>Track: 01023202301212313312
+Latitude: 24.388665
+Longitude: 48.390170
+Altitude: 1226.78952
+</description>
+        <Point>
+          <coordinates>24.388665,48.390170,1226.78952</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>368</name>
+        <description>Track: 01023202301212313312
+Latitude: 24.388646
+Longitude: 48.390173
+Altitude: 1227.24672
+</description>
+        <Point>
+          <coordinates>24.388646,48.390173,1227.24672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>369</name>
+        <description>Track: 01023202301212313312
+Latitude: 24.388434
+Longitude: 48.390170
+Altitude: 1229.65464
+</description>
+        <Point>
+          <coordinates>24.388434,48.390170,1229.65464</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>370</name>
+        <description>Track: 01023202301212313303
+Latitude: 24.388058
+Longitude: 48.390127
+Altitude: 1233.03792
+</description>
+        <Point>
+          <coordinates>24.388058,48.390127,1233.03792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>371</name>
+        <description>Track: 01023202301212313303
+Latitude: 24.387904
+Longitude: 48.390116
+Altitude: 1235.44584
+</description>
+        <Point>
+          <coordinates>24.387904,48.390116,1235.44584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>372</name>
+        <description>Track: 01023202301212313201
+Latitude: 24.385469
+Longitude: 48.390488
+Altitude: 1238.31096
+</description>
+        <Point>
+          <coordinates>24.385469,48.390488,1238.31096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>373</name>
+        <description>Track: 01023202301212313201
+Latitude: 24.385167
+Longitude: 48.390452
+Altitude: 1241.69424
+</description>
+        <Point>
+          <coordinates>24.385167,48.390452,1241.69424</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>374</name>
+        <description>Track: 01023202301212313201
+Latitude: 24.385085
+Longitude: 48.390544
+Altitude: 1244.55936
+</description>
+        <Point>
+          <coordinates>24.385085,48.390544,1244.55936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>375</name>
+        <description>Track: 01023202301212313201
+Latitude: 24.384967
+Longitude: 48.390607
+Altitude: 1247.94264
+</description>
+        <Point>
+          <coordinates>24.384967,48.390607,1247.94264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>376</name>
+        <description>Track: 01023202301212313201
+Latitude: 24.384920
+Longitude: 48.390637
+Altitude: 1250.80776
+</description>
+        <Point>
+          <coordinates>24.384920,48.390637,1250.80776</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>377</name>
+        <description>Track: 01023202301212313200
+Latitude: 24.384763
+Longitude: 48.390641
+Altitude: 1254.19104
+</description>
+        <Point>
+          <coordinates>24.384763,48.390641,1254.19104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>378</name>
+        <description>Track: 01023202301212313022
+Latitude: 24.384733
+Longitude: 48.390665
+Altitude: 1257.05616
+</description>
+        <Point>
+          <coordinates>24.384733,48.390665,1257.05616</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>379</name>
+        <description>Track: 01023202301212313022
+Latitude: 24.384562
+Longitude: 48.390788
+Altitude: 1260.43944
+</description>
+        <Point>
+          <coordinates>24.384562,48.390788,1260.43944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>380</name>
+        <description>Track: 01023202301212313022
+Latitude: 24.384267
+Longitude: 48.390992
+Altitude: 1263.30456
+</description>
+        <Point>
+          <coordinates>24.384267,48.390992,1263.30456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>381</name>
+        <description>Track: 01023202301212312131
+Latitude: 24.383996
+Longitude: 48.391183
+Altitude: 1263.79224
+</description>
+        <Point>
+          <coordinates>24.383996,48.391183,1263.79224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>382</name>
+        <description>Track: 01023202301212312131
+Latitude: 24.383870
+Longitude: 48.391301
+Altitude: 1263.30456
+</description>
+        <Point>
+          <coordinates>24.383870,48.391301,1263.30456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>383</name>
+        <description>Track: 01023202301212312113
+Latitude: 24.383732
+Longitude: 48.391505
+Altitude: 1260.43944
+</description>
+        <Point>
+          <coordinates>24.383732,48.391505,1260.43944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>384</name>
+        <description>Track: 01023202301212312113
+Latitude: 24.383680
+Longitude: 48.391652
+Altitude: 1258.48872
+</description>
+        <Point>
+          <coordinates>24.383680,48.391652,1258.48872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>385</name>
+        <description>Track: 01023202301212312111
+Latitude: 24.383619
+Longitude: 48.391708
+Altitude: 1257.54384
+</description>
+        <Point>
+          <coordinates>24.383619,48.391708,1257.54384</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>386</name>
+        <description>Track: 01023202301212312111
+Latitude: 24.383558
+Longitude: 48.391894
+Altitude: 1258.48872
+</description>
+        <Point>
+          <coordinates>24.383558,48.391894,1258.48872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>387</name>
+        <description>Track: 01023202301212310332
+Latitude: 24.383224
+Longitude: 48.392332
+Altitude: 1258.48872
+</description>
+        <Point>
+          <coordinates>24.383224,48.392332,1258.48872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>388</name>
+        <description>Track: 01023202301212310330
+Latitude: 24.383170
+Longitude: 48.392397
+Altitude: 1261.872
+</description>
+        <Point>
+          <coordinates>24.383170,48.392397,1261.872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>389</name>
+        <description>Track: 01023202301212310330
+Latitude: 24.383098
+Longitude: 48.392526
+Altitude: 1264.73712
+</description>
+        <Point>
+          <coordinates>24.383098,48.392526,1264.73712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>390</name>
+        <description>Track: 01023202301212310330
+Latitude: 24.383171
+Longitude: 48.392657
+Altitude: 1266.20016
+</description>
+        <Point>
+          <coordinates>24.383171,48.392657,1266.20016</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>391</name>
+        <description>Track: 01023202301212310312
+Latitude: 24.383172
+Longitude: 48.392720
+Altitude: 1267.63272
+</description>
+        <Point>
+          <coordinates>24.383172,48.392720,1267.63272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>392</name>
+        <description>Track: 01023202301212310312
+Latitude: 24.383163
+Longitude: 48.392730
+Altitude: 1270.98552
+</description>
+        <Point>
+          <coordinates>24.383163,48.392730,1270.98552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>393</name>
+        <description>Track: 01023202301212310312
+Latitude: 24.383108
+Longitude: 48.392825
+Altitude: 1273.88112
+</description>
+        <Point>
+          <coordinates>24.383108,48.392825,1273.88112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>394</name>
+        <description>Track: 01023202301212310312
+Latitude: 24.383063
+Longitude: 48.392900
+Altitude: 1275.31368
+</description>
+        <Point>
+          <coordinates>24.383063,48.392900,1275.31368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>395</name>
+        <description>Track: 01023202301212310312
+Latitude: 24.382896
+Longitude: 48.393007
+Altitude: 1276.77672
+</description>
+        <Point>
+          <coordinates>24.382896,48.393007,1276.77672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>396</name>
+        <description>Track: 01023202301212310301
+Latitude: 24.382723
+Longitude: 48.393250
+Altitude: 1276.77672
+</description>
+        <Point>
+          <coordinates>24.382723,48.393250,1276.77672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>397</name>
+        <description>Track: 01023202301212310301
+Latitude: 24.382647
+Longitude: 48.393367
+Altitude: 1273.88112
+</description>
+        <Point>
+          <coordinates>24.382647,48.393367,1273.88112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>398</name>
+        <description>Track: 01023202301212310123
+Latitude: 24.382563
+Longitude: 48.393433
+Altitude: 1272.93624
+</description>
+        <Point>
+          <coordinates>24.382563,48.393433,1272.93624</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>399</name>
+        <description>Track: 01023202301212310123
+Latitude: 24.382499
+Longitude: 48.393519
+Altitude: 1269.55296
+</description>
+        <Point>
+          <coordinates>24.382499,48.393519,1269.55296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>400</name>
+        <description>Track: 01023202301212310123
+Latitude: 24.382463
+Longitude: 48.393557
+Altitude: 1266.68784
+</description>
+        <Point>
+          <coordinates>24.382463,48.393557,1266.68784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>401</name>
+        <description>Track: 01023202301212310123
+Latitude: 24.382401
+Longitude: 48.393641
+Altitude: 1263.79224
+</description>
+        <Point>
+          <coordinates>24.382401,48.393641,1263.79224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>402</name>
+        <description>Track: 01023202301212310103
+Latitude: 24.382409
+Longitude: 48.394178
+Altitude: 1261.872
+</description>
+        <Point>
+          <coordinates>24.382409,48.394178,1261.872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>403</name>
+        <description>Track: 01023202301212310100
+Latitude: 24.382052
+Longitude: 48.394515
+Altitude: 1260.43944
+</description>
+        <Point>
+          <coordinates>24.382052,48.394515,1260.43944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>404</name>
+        <description>Track: 01023202301212132322
+Latitude: 24.381549
+Longitude: 48.394909
+Altitude: 1258.9764
+</description>
+        <Point>
+          <coordinates>24.381549,48.394909,1258.9764</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>405</name>
+        <description>Track: 01023202301212132231
+Latitude: 24.381220
+Longitude: 48.395194
+Altitude: 1258.03152
+</description>
+        <Point>
+          <coordinates>24.381220,48.395194,1258.03152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>406</name>
+        <description>Track: 01023202301212132231
+Latitude: 24.380940
+Longitude: 48.395405
+Altitude: 1258.03152
+</description>
+        <Point>
+          <coordinates>24.380940,48.395405,1258.03152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>407</name>
+        <description>Track: 01023202301212132212
+Latitude: 24.380644
+Longitude: 48.395607
+Altitude: 1257.54384
+</description>
+        <Point>
+          <coordinates>24.380644,48.395607,1257.54384</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>408</name>
+        <description>Track: 01023202301212132212
+Latitude: 24.380238
+Longitude: 48.395769
+Altitude: 1259.46408
+</description>
+        <Point>
+          <coordinates>24.380238,48.395769,1259.46408</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>409</name>
+        <description>Track: 01023202301212132201
+Latitude: 24.379947
+Longitude: 48.395904
+Altitude: 1261.872
+</description>
+        <Point>
+          <coordinates>24.379947,48.395904,1261.872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>410</name>
+        <description>Track: 01023202301212132201
+Latitude: 24.379436
+Longitude: 48.395959
+Altitude: 1263.30456
+</description>
+        <Point>
+          <coordinates>24.379436,48.395959,1263.30456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>411</name>
+        <description>Track: 01023202301212132200
+Latitude: 24.379258
+Longitude: 48.395962
+Altitude: 1264.73712
+</description>
+        <Point>
+          <coordinates>24.379258,48.395962,1264.73712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>412</name>
+        <description>Track: 01023202301212132200
+Latitude: 24.378974
+Longitude: 48.396018
+Altitude: 1266.68784
+</description>
+        <Point>
+          <coordinates>24.378974,48.396018,1266.68784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>413</name>
+        <description>Track: 01023202301212123311
+Latitude: 24.378631
+Longitude: 48.395965
+Altitude: 1268.1204
+</description>
+        <Point>
+          <coordinates>24.378631,48.395965,1268.1204</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>414</name>
+        <description>Track: 01023202301212123311
+Latitude: 24.378320
+Longitude: 48.395938
+Altitude: 1269.06528
+</description>
+        <Point>
+          <coordinates>24.378320,48.395938,1269.06528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>415</name>
+        <description>Track: 01023202301212123311
+Latitude: 24.378049
+Longitude: 48.395968
+Altitude: 1269.06528
+</description>
+        <Point>
+          <coordinates>24.378049,48.395968,1269.06528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>416</name>
+        <description>Track: 01023202301212123310
+Latitude: 24.377868
+Longitude: 48.395978
+Altitude: 1270.04064
+</description>
+        <Point>
+          <coordinates>24.377868,48.395978,1270.04064</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>417</name>
+        <description>Track: 01023202301212123310
+Latitude: 24.377543
+Longitude: 48.395958
+Altitude: 1270.52832
+</description>
+        <Point>
+          <coordinates>24.377543,48.395958,1270.52832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>418</name>
+        <description>Track: 01023202301212123310
+Latitude: 24.377348
+Longitude: 48.395929
+Altitude: 1270.52832
+</description>
+        <Point>
+          <coordinates>24.377348,48.395929,1270.52832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>419</name>
+        <description>Track: 01023202301212123301
+Latitude: 24.376936
+Longitude: 48.395903
+Altitude: 1270.04064
+</description>
+        <Point>
+          <coordinates>24.376936,48.395903,1270.04064</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>420</name>
+        <description>Track: 01023202301212123300
+Latitude: 24.376571
+Longitude: 48.395929
+Altitude: 1269.06528
+</description>
+        <Point>
+          <coordinates>24.376571,48.395929,1269.06528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>421</name>
+        <description>Track: 01023202301212123300
+Latitude: 24.376016
+Longitude: 48.395953
+Altitude: 1266.68784
+</description>
+        <Point>
+          <coordinates>24.376016,48.395953,1266.68784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>422</name>
+        <description>Track: 01023202301212123211
+Latitude: 24.375616
+Longitude: 48.396010
+Altitude: 1265.2248
+</description>
+        <Point>
+          <coordinates>24.375616,48.396010,1265.2248</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>423</name>
+        <description>Track: 01023202301212123211
+Latitude: 24.375407
+Longitude: 48.396052
+Altitude: 1264.27992
+</description>
+        <Point>
+          <coordinates>24.375407,48.396052,1264.27992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>424</name>
+        <description>Track: 01023202301212123211
+Latitude: 24.375355
+Longitude: 48.396065
+Altitude: 1263.79224
+</description>
+        <Point>
+          <coordinates>24.375355,48.396065,1263.79224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>425</name>
+        <description>Track: 01023202301212123210
+Latitude: 24.374822
+Longitude: 48.396112
+Altitude: 1260.89664
+</description>
+        <Point>
+          <coordinates>24.374822,48.396112,1260.89664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>426</name>
+        <description>Track: 01023202301212123023
+Latitude: 24.374457
+Longitude: 48.396177
+Altitude: 1259.95176
+</description>
+        <Point>
+          <coordinates>24.374457,48.396177,1259.95176</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>427</name>
+        <description>Track: 01023202301212123023
+Latitude: 24.374125
+Longitude: 48.396207
+Altitude: 1260.43944
+</description>
+        <Point>
+          <coordinates>24.374125,48.396207,1260.43944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>428</name>
+        <description>Track: 01023202301212123023
+Latitude: 24.373973
+Longitude: 48.396194
+Altitude: 1260.89664
+</description>
+        <Point>
+          <coordinates>24.373973,48.396194,1260.89664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>429</name>
+        <description>Track: 01023202301212123022
+Latitude: 24.373823
+Longitude: 48.396222
+Altitude: 1261.872
+</description>
+        <Point>
+          <coordinates>24.373823,48.396222,1261.872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>430</name>
+        <description>Track: 01023202301212123022
+Latitude: 24.373527
+Longitude: 48.396216
+Altitude: 1264.27992
+</description>
+        <Point>
+          <coordinates>24.373527,48.396216,1264.27992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>431</name>
+        <description>Track: 01023202301212123022
+Latitude: 24.373294
+Longitude: 48.396223
+Altitude: 1267.14504
+</description>
+        <Point>
+          <coordinates>24.373294,48.396223,1267.14504</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>432</name>
+        <description>Track: 01023202301212122133
+Latitude: 24.373011
+Longitude: 48.396284
+Altitude: 1270.52832
+</description>
+        <Point>
+          <coordinates>24.373011,48.396284,1270.52832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>433</name>
+        <description>Track: 01023202301212122133
+Latitude: 24.372809
+Longitude: 48.396367
+Altitude: 1273.39344
+</description>
+        <Point>
+          <coordinates>24.372809,48.396367,1273.39344</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>434</name>
+        <description>Track: 01023202301212122133
+Latitude: 24.372673
+Longitude: 48.396460
+Altitude: 1274.85648
+</description>
+        <Point>
+          <coordinates>24.372673,48.396460,1274.85648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>435</name>
+        <description>Track: 01023202301212122130
+Latitude: 24.372431
+Longitude: 48.396547
+Altitude: 1277.23392
+</description>
+        <Point>
+          <coordinates>24.372431,48.396547,1277.23392</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>436</name>
+        <description>Track: 01023202301212122130
+Latitude: 24.372168
+Longitude: 48.396511
+Altitude: 1274.85648
+</description>
+        <Point>
+          <coordinates>24.372168,48.396511,1274.85648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>437</name>
+        <description>Track: 01023202301212122132
+Latitude: 24.371920
+Longitude: 48.396361
+Altitude: 1271.4732
+</description>
+        <Point>
+          <coordinates>24.371920,48.396361,1271.4732</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>438</name>
+        <description>Track: 01023202301212122132
+Latitude: 24.371832
+Longitude: 48.396293
+Altitude: 1269.55296
+</description>
+        <Point>
+          <coordinates>24.371832,48.396293,1269.55296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>439</name>
+        <description>Track: 01023202301212122123
+Latitude: 24.371755
+Longitude: 48.396206
+Altitude: 1266.68784
+</description>
+        <Point>
+          <coordinates>24.371755,48.396206,1266.68784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>440</name>
+        <description>Track: 01023202301212122301
+Latitude: 24.371467
+Longitude: 48.395982
+Altitude: 1263.30456
+</description>
+        <Point>
+          <coordinates>24.371467,48.395982,1263.30456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>441</name>
+        <description>Track: 01023202301212122301
+Latitude: 24.371239
+Longitude: 48.395866
+Altitude: 1260.43944
+</description>
+        <Point>
+          <coordinates>24.371239,48.395866,1260.43944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>442</name>
+        <description>Track: 01023202301212122302
+Latitude: 24.371052
+Longitude: 48.395787
+Altitude: 1257.05616
+</description>
+        <Point>
+          <coordinates>24.371052,48.395787,1257.05616</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>443</name>
+        <description>Track: 01023202301212122302
+Latitude: 24.370781
+Longitude: 48.395692
+Altitude: 1254.19104
+</description>
+        <Point>
+          <coordinates>24.370781,48.395692,1254.19104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>444</name>
+        <description>Track: 01023202301212122302
+Latitude: 24.370523
+Longitude: 48.395609
+Altitude: 1250.80776
+</description>
+        <Point>
+          <coordinates>24.370523,48.395609,1250.80776</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>445</name>
+        <description>Track: 01023202301212122213
+Latitude: 24.370374
+Longitude: 48.395557
+Altitude: 1247.94264
+</description>
+        <Point>
+          <coordinates>24.370374,48.395557,1247.94264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>446</name>
+        <description>Track: 01023202301212122213
+Latitude: 24.370113
+Longitude: 48.395483
+Altitude: 1244.55936
+</description>
+        <Point>
+          <coordinates>24.370113,48.395483,1244.55936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>447</name>
+        <description>Track: 01023202301212122213
+Latitude: 24.369906
+Longitude: 48.395464
+Altitude: 1244.07168
+</description>
+        <Point>
+          <coordinates>24.369906,48.395464,1244.07168</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>448</name>
+        <description>Track: 01023202301212122212
+Latitude: 24.369585
+Longitude: 48.395463
+Altitude: 1242.15144
+</description>
+        <Point>
+          <coordinates>24.369585,48.395463,1242.15144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>449</name>
+        <description>Track: 01023202301212122221
+Latitude: 24.369024
+Longitude: 48.395386
+Altitude: 1241.69424
+</description>
+        <Point>
+          <coordinates>24.369024,48.395386,1241.69424</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>450</name>
+        <description>Track: 01023202301212122221
+Latitude: 24.368667
+Longitude: 48.395389
+Altitude: 1238.79864
+</description>
+        <Point>
+          <coordinates>24.368667,48.395389,1238.79864</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>451</name>
+        <description>Track: 01023202301212122221
+Latitude: 24.368387
+Longitude: 48.395353
+Altitude: 1236.39072
+</description>
+        <Point>
+          <coordinates>24.368387,48.395353,1236.39072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>452</name>
+        <description>Track: 01023202301212122220
+Latitude: 24.368145
+Longitude: 48.395332
+Altitude: 1233.03792
+</description>
+        <Point>
+          <coordinates>24.368145,48.395332,1233.03792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>453</name>
+        <description>Track: 01023202301212122220
+Latitude: 24.367963
+Longitude: 48.395347
+Altitude: 1230.14232
+</description>
+        <Point>
+          <coordinates>24.367963,48.395347,1230.14232</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>454</name>
+        <description>Track: 01023202301212033331
+Latitude: 24.367545
+Longitude: 48.395284
+Altitude: 1227.24672
+</description>
+        <Point>
+          <coordinates>24.367545,48.395284,1227.24672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>455</name>
+        <description>Track: 01023202301212033330
+Latitude: 24.366984
+Longitude: 48.395319
+Altitude: 1226.30184
+</description>
+        <Point>
+          <coordinates>24.366984,48.395319,1226.30184</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>456</name>
+        <description>Track: 01023202301212033330
+Latitude: 24.366963
+Longitude: 48.395331
+Altitude: 1225.32648
+</description>
+        <Point>
+          <coordinates>24.366963,48.395331,1225.32648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>457</name>
+        <description>Track: 01023202301212033330
+Latitude: 24.366797
+Longitude: 48.395142
+Altitude: 1221.97368
+</description>
+        <Point>
+          <coordinates>24.366797,48.395142,1221.97368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>458</name>
+        <description>Track: 01023202301212033332
+Latitude: 24.366526
+Longitude: 48.395025
+Altitude: 1219.56576
+</description>
+        <Point>
+          <coordinates>24.366526,48.395025,1219.56576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>459</name>
+        <description>Track: 01023202301212033332
+Latitude: 24.366329
+Longitude: 48.394921
+Altitude: 1216.21296
+</description>
+        <Point>
+          <coordinates>24.366329,48.394921,1216.21296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>460</name>
+        <description>Track: 01023202301212211101
+Latitude: 24.365881
+Longitude: 48.394743
+Altitude: 1214.74992
+</description>
+        <Point>
+          <coordinates>24.365881,48.394743,1214.74992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>461</name>
+        <description>Track: 01023202301212211101
+Latitude: 24.365688
+Longitude: 48.394515
+Altitude: 1211.39712
+</description>
+        <Point>
+          <coordinates>24.365688,48.394515,1211.39712</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>462</name>
+        <description>Track: 01023202301212211103
+Latitude: 24.365666
+Longitude: 48.394274
+Altitude: 1208.50152
+</description>
+        <Point>
+          <coordinates>24.365666,48.394274,1208.50152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>463</name>
+        <description>Track: 01023202301212211103
+Latitude: 24.365771
+Longitude: 48.394116
+Altitude: 1206.12408
+</description>
+        <Point>
+          <coordinates>24.365771,48.394116,1206.12408</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>464</name>
+        <description>Track: 01023202301212211121
+Latitude: 24.365887
+Longitude: 48.393794
+Altitude: 1203.71616
+</description>
+        <Point>
+          <coordinates>24.365887,48.393794,1203.71616</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>465</name>
+        <description>Track: 01023202301212211123
+Latitude: 24.365862
+Longitude: 48.393708
+Altitude: 1201.79592
+</description>
+        <Point>
+          <coordinates>24.365862,48.393708,1201.79592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>466</name>
+        <description>Track: 01023202301212211300
+Latitude: 24.365542
+Longitude: 48.393395
+Altitude: 1198.41264
+</description>
+        <Point>
+          <coordinates>24.365542,48.393395,1198.41264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>467</name>
+        <description>Track: 01023202301212211300
+Latitude: 24.365455
+Longitude: 48.393100
+Altitude: 1195.05984
+</description>
+        <Point>
+          <coordinates>24.365455,48.393100,1195.05984</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>468</name>
+        <description>Track: 01023202301212211302
+Latitude: 24.365321
+Longitude: 48.392933
+Altitude: 1192.16424
+</description>
+        <Point>
+          <coordinates>24.365321,48.392933,1192.16424</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>469</name>
+        <description>Track: 01023202301212211302
+Latitude: 24.365126
+Longitude: 48.392740
+Altitude: 1189.29912
+</description>
+        <Point>
+          <coordinates>24.365126,48.392740,1189.29912</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>470</name>
+        <description>Track: 01023202301212211320
+Latitude: 24.364965
+Longitude: 48.392693
+Altitude: 1187.83608
+</description>
+        <Point>
+          <coordinates>24.364965,48.392693,1187.83608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>471</name>
+        <description>Track: 01023202301212211213
+Latitude: 24.364776
+Longitude: 48.392781
+Altitude: 1185.42816
+</description>
+        <Point>
+          <coordinates>24.364776,48.392781,1185.42816</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>472</name>
+        <description>Track: 01023202301212211213
+Latitude: 24.364552
+Longitude: 48.392934
+Altitude: 1182.56304
+</description>
+        <Point>
+          <coordinates>24.364552,48.392934,1182.56304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>473</name>
+        <description>Track: 01023202301212211211
+Latitude: 24.364453
+Longitude: 48.393070
+Altitude: 1181.58768
+</description>
+        <Point>
+          <coordinates>24.364453,48.393070,1181.58768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>474</name>
+        <description>Track: 01023202301212211210
+Latitude: 24.364033
+Longitude: 48.393279
+Altitude: 1180.15512
+</description>
+        <Point>
+          <coordinates>24.364033,48.393279,1180.15512</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>475</name>
+        <description>Track: 01023202301212211210
+Latitude: 24.363824
+Longitude: 48.393371
+Altitude: 1179.17976
+</description>
+        <Point>
+          <coordinates>24.363824,48.393371,1179.17976</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>476</name>
+        <description>Track: 01023202301212211210
+Latitude: 24.363774
+Longitude: 48.393341
+Altitude: 1179.66744
+</description>
+        <Point>
+          <coordinates>24.363774,48.393341,1179.66744</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>477</name>
+        <description>Track: 01023202301212211201
+Latitude: 24.363506
+Longitude: 48.393167
+Altitude: 1177.7472
+</description>
+        <Point>
+          <coordinates>24.363506,48.393167,1177.7472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>478</name>
+        <description>Track: 01023202301212211201
+Latitude: 24.363429
+Longitude: 48.393117
+Altitude: 1174.88208
+</description>
+        <Point>
+          <coordinates>24.363429,48.393117,1174.88208</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>479</name>
+        <description>Track: 01023202301212211201
+Latitude: 24.362870
+Longitude: 48.393137
+Altitude: 1172.47416
+</description>
+        <Point>
+          <coordinates>24.362870,48.393137,1172.47416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>480</name>
+        <description>Track: 01023202301212211200
+Latitude: 24.362647
+Longitude: 48.393059
+Altitude: 1169.57856
+</description>
+        <Point>
+          <coordinates>24.362647,48.393059,1169.57856</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>481</name>
+        <description>Track: 01023202301212211202
+Latitude: 24.362652
+Longitude: 48.393048
+Altitude: 1166.68296
+</description>
+        <Point>
+          <coordinates>24.362652,48.393048,1166.68296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>482</name>
+        <description>Track: 01023202301212211202
+Latitude: 24.362609
+Longitude: 48.393024
+Altitude: 1163.33016
+</description>
+        <Point>
+          <coordinates>24.362609,48.393024,1163.33016</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>483</name>
+        <description>Track: 01023202301212211202
+Latitude: 24.362478
+Longitude: 48.393003
+Altitude: 1160.43456
+</description>
+        <Point>
+          <coordinates>24.362478,48.393003,1160.43456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>484</name>
+        <description>Track: 01023202301212211202
+Latitude: 24.362189
+Longitude: 48.392853
+Altitude: 1153.72896
+</description>
+        <Point>
+          <coordinates>24.362189,48.392853,1153.72896</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>485</name>
+        <description>Track: 01023202301212210313
+Latitude: 24.362123
+Longitude: 48.392775
+Altitude: 1150.34568
+</description>
+        <Point>
+          <coordinates>24.362123,48.392775,1150.34568</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>486</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.362051
+Longitude: 48.392688
+Altitude: 1147.48056
+</description>
+        <Point>
+          <coordinates>24.362051,48.392688,1147.48056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>487</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361962
+Longitude: 48.392701
+Altitude: 1144.58496
+</description>
+        <Point>
+          <coordinates>24.361962,48.392701,1144.58496</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>488</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361895
+Longitude: 48.392661
+Altitude: 1141.23216
+</description>
+        <Point>
+          <coordinates>24.361895,48.392661,1141.23216</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>489</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361909
+Longitude: 48.392602
+Altitude: 1137.84888
+</description>
+        <Point>
+          <coordinates>24.361909,48.392602,1137.84888</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>490</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361896
+Longitude: 48.392607
+Altitude: 1134.49608
+</description>
+        <Point>
+          <coordinates>24.361896,48.392607,1134.49608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>491</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361891
+Longitude: 48.392603
+Altitude: 1131.60048
+</description>
+        <Point>
+          <coordinates>24.361891,48.392603,1131.60048</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>492</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361653
+Longitude: 48.392671
+Altitude: 1128.24768
+</description>
+        <Point>
+          <coordinates>24.361653,48.392671,1128.24768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>493</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361536
+Longitude: 48.392690
+Altitude: 1125.35208
+</description>
+        <Point>
+          <coordinates>24.361536,48.392690,1125.35208</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>494</name>
+        <description>Track: 01023202301212210331
+Latitude: 24.361498
+Longitude: 48.392690
+Altitude: 1121.99928
+</description>
+        <Point>
+          <coordinates>24.361498,48.392690,1121.99928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>495</name>
+        <description>Track: 01023202301212210330
+Latitude: 24.361328
+Longitude: 48.392643
+Altitude: 1119.10368
+</description>
+        <Point>
+          <coordinates>24.361328,48.392643,1119.10368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>496</name>
+        <description>Track: 01023202301212210330
+Latitude: 24.361127
+Longitude: 48.392439
+Altitude: 1115.75088
+</description>
+        <Point>
+          <coordinates>24.361127,48.392439,1115.75088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>497</name>
+        <description>Track: 01023202301212210332
+Latitude: 24.360937
+Longitude: 48.392169
+Altitude: 1113.34296
+</description>
+        <Point>
+          <coordinates>24.360937,48.392169,1113.34296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>498</name>
+        <description>Track: 01023202301212210323
+Latitude: 24.360719
+Longitude: 48.392061
+Altitude: 1112.3676
+</description>
+        <Point>
+          <coordinates>24.360719,48.392061,1112.3676</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>499</name>
+        <description>Track: 01023202301212212101
+Latitude: 24.360538
+Longitude: 48.391856
+Altitude: 1113.34296
+</description>
+        <Point>
+          <coordinates>24.360538,48.391856,1113.34296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>500</name>
+        <description>Track: 01023202301212212103
+Latitude: 24.360480
+Longitude: 48.391652
+Altitude: 1114.31832
+</description>
+        <Point>
+          <coordinates>24.360480,48.391652,1114.31832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>501</name>
+        <description>Track: 01023202301212212121
+Latitude: 24.360188
+Longitude: 48.391164
+Altitude: 1117.18344
+</description>
+        <Point>
+          <coordinates>24.360188,48.391164,1117.18344</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>502</name>
+        <description>Track: 01023202301212212122
+Latitude: 24.360035
+Longitude: 48.390979
+Altitude: 1113.83064
+</description>
+        <Point>
+          <coordinates>24.360035,48.390979,1113.83064</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>503</name>
+        <description>Track: 01023202301212212122
+Latitude: 24.359852
+Longitude: 48.390740
+Altitude: 1114.77552
+</description>
+        <Point>
+          <coordinates>24.359852,48.390740,1114.77552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>504</name>
+        <description>Track: 01023202301212212300
+Latitude: 24.359616
+Longitude: 48.390323
+Altitude: 1117.67112
+</description>
+        <Point>
+          <coordinates>24.359616,48.390323,1117.67112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>505</name>
+        <description>Track: 01023202301212212231
+Latitude: 24.359079
+Longitude: 48.389872
+Altitude: 1120.56672
+</description>
+        <Point>
+          <coordinates>24.359079,48.389872,1120.56672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>506</name>
+        <description>Track: 01023202301212212231
+Latitude: 24.358877
+Longitude: 48.389784
+Altitude: 1122.94416
+</description>
+        <Point>
+          <coordinates>24.358877,48.389784,1122.94416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>507</name>
+        <description>Track: 01023202301212212233
+Latitude: 24.358823
+Longitude: 48.389614
+Altitude: 1123.43184
+</description>
+        <Point>
+          <coordinates>24.358823,48.389614,1123.43184</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>508</name>
+        <description>Track: 01023202301212212233
+Latitude: 24.358823
+Longitude: 48.389604
+Altitude: 1123.91952
+</description>
+        <Point>
+          <coordinates>24.358823,48.389604,1123.91952</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Track</name>
+      <Placemark>
+        <name>Path</name>
+        <styleUrl>#lineStyle</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>24.435101,48.400307,1588.22136
+24.435101,48.400307,1587.76416
+24.435189,48.400257,1587.27648
+24.435169,48.400192,1584.38088
+24.435157,48.400168,1581.51576
+24.435121,48.400115,1578.13248
+24.435063,48.400071,1574.77968
+24.435039,48.400092,1571.88408
+24.435029,48.400077,1568.0436
+24.434891,48.399950,1565.17848
+24.434813,48.399800,1561.7952
+24.434815,48.399796,1558.93008
+24.434772,48.399757,1556.03448
+24.434755,48.399699,1552.68168
+24.434756,48.399653,1552.68168
+24.434772,48.399625,1550.27376
+24.434799,48.399583,1546.89048
+24.434699,48.399588,1544.02536
+24.434616,48.399559,1541.12976
+24.434508,48.399524,1534.88136
+24.434434,48.399468,1531.98576
+24.434441,48.399387,1528.63296
+24.434481,48.399335,1525.73736
+24.434402,48.399285,1522.38456
+24.434322,48.399256,1519.48896
+24.434204,48.399283,1517.11152
+24.434168,48.399261,1513.72824
+24.434100,48.399216,1511.808
+24.434081,48.399192,1508.9124
+24.434102,48.399114,1505.5596
+24.433988,48.399113,1502.2068
+24.433910,48.399109,1499.3112
+24.433885,48.399039,1496.4156
+24.433887,48.398978,1493.0628
+24.433846,48.398923,1488.73464
+24.433786,48.398926,1486.8144
+24.433736,48.398874,1483.4616
+24.433682,48.398827,1480.566
+24.433606,48.398768,1477.2132
+24.433603,48.398687,1473.37272
+24.433552,48.398609,1470.47712
+24.433452,48.398544,1467.58152
+24.433371,48.398507,1464.7164
+24.433168,48.398484,1461.8208
+24.433113,48.398426,1460.38824
+24.433096,48.398345,1457.00496
+24.433004,48.398320,1453.65216
+24.432951,48.398285,1450.75656
+24.432867,48.398226,1447.40376
+24.432805,48.398195,1444.05096
+24.432713,48.398187,1440.66768
+24.432665,48.398121,1437.31488
+24.432573,48.398086,1434.41928
+24.432224,48.398033,1431.06648
+24.432170,48.397939,1429.60344
+24.432132,48.397787,1432.98672
+24.432040,48.397678,1436.33952
+24.431911,48.397607,1439.7228
+24.431843,48.397526,1443.0756
+24.431791,48.397488,1443.56328
+24.431725,48.397379,1443.0756
+24.431649,48.397374,1442.10024
+24.431611,48.397362,1441.64304
+24.431466,48.397364,1438.74744
+24.431313,48.397352,1435.85184
+24.431164,48.397347,1432.49904
+24.431099,48.397344,1431.06648
+24.430920,48.397362,1427.226
+24.430798,48.397379,1423.84272
+24.430711,48.397362,1421.4348
+24.430601,48.397338,1418.56968
+24.430479,48.397353,1416.16176
+24.430332,48.397355,1412.32128
+24.430208,48.397336,1409.42568
+24.430009,48.397361,1406.07288
+24.429902,48.397352,1402.6896
+24.429730,48.397351,1399.82448
+24.429560,48.397382,1396.4412
+24.429430,48.397384,1393.57608
+24.429323,48.397387,1390.1928
+24.429167,48.397392,1387.32768
+24.429034,48.397386,1383.4872
+24.428795,48.397391,1380.5916
+24.428723,48.397390,1378.67136
+24.428595,48.397393,1375.77576
+24.428507,48.397385,1374.3432
+24.428355,48.397390,1370.9904
+24.428236,48.397378,1367.60712
+24.428103,48.397376,1364.25432
+24.427963,48.397382,1361.35872
+24.427767,48.397360,1358.00592
+24.427567,48.397371,1355.598
+24.427529,48.397375,1354.62264
+24.427425,48.397370,1351.75752
+24.427271,48.397325,1348.37424
+24.427138,48.397310,1344.53376
+24.427109,48.397285,1342.61352
+24.426988,48.397212,1339.26072
+24.426916,48.397145,1335.87744
+24.426751,48.397120,1333.01232
+24.426592,48.397073,1329.62904
+24.426501,48.397019,1326.27624
+24.426400,48.397020,1325.30088
+24.426275,48.396962,1321.94808
+24.426211,48.396946,1320.51552
+24.426128,48.396899,1320.02784
+24.426083,48.396880,1318.59528
+24.425917,48.396768,1315.69968
+24.425777,48.396678,1312.80408
+24.425595,48.396626,1311.8592
+24.425507,48.396609,1311.37152
+24.425408,48.396557,1309.45128
+24.425357,48.396517,1308.5064
+24.425150,48.396450,1307.04336
+24.424984,48.396357,1306.09848
+24.424873,48.396238,1306.09848
+24.424718,48.396118,1308.5064
+24.424610,48.396024,1310.42664
+24.424464,48.395942,1308.01872
+24.424390,48.395839,1307.53104
+24.424327,48.395766,1307.53104
+24.424246,48.395660,1309.45128
+24.424145,48.395567,1313.29176
+24.424077,48.395473,1316.18736
+24.423973,48.395385,1319.54016
+24.423962,48.395324,1322.92344
+24.423894,48.395249,1325.78856
+24.423813,48.395157,1328.68416
+24.423721,48.395052,1331.54928
+24.423622,48.394910,1334.93256
+24.423527,48.394850,1338.28536
+24.423395,48.394772,1341.18096
+24.423295,48.394682,1344.53376
+24.423214,48.394636,1346.94168
+24.423005,48.394522,1349.83728
+24.422861,48.394561,1351.75752
+24.422607,48.394674,1357.03056
+24.422429,48.394706,1359.92616
+24.422229,48.394674,1362.79128
+24.422110,48.394689,1365.1992
+24.421856,48.394759,1366.66224
+24.421764,48.394788,1368.0948
+24.421453,48.394842,1370.01504
+24.421170,48.394922,1371.93528
+24.421022,48.394918,1374.83088
+24.420920,48.394923,1375.28808
+24.420591,48.395005,1374.3432
+24.420230,48.395106,1374.3432
+24.419958,48.395139,1374.83088
+24.419726,48.395184,1373.85552
+24.419482,48.395226,1374.83088
+24.419255,48.395293,1377.2388
+24.418984,48.395369,1377.696
+24.418630,48.395463,1380.5916
+24.418415,48.395513,1383.4872
+24.418248,48.395571,1386.84
+24.418162,48.395592,1390.1928
+24.417991,48.395608,1393.0884
+24.417854,48.395644,1395.00864
+24.417621,48.395612,1393.57608
+24.417424,48.395644,1392.11304
+24.417079,48.395668,1391.65584
+24.416759,48.395738,1392.60072
+24.416518,48.395753,1393.0884
+24.416417,48.395763,1393.0884
+24.416238,48.395817,1391.65584
+24.416190,48.395841,1390.68048
+24.416013,48.395906,1389.7356
+24.415945,48.395934,1389.24792
+24.415877,48.395964,1389.24792
+24.415756,48.396020,1388.76024
+24.415506,48.396156,1388.76024
+24.415347,48.396236,1388.76024
+24.415256,48.396275,1387.32768
+24.415078,48.396399,1390.1928
+24.415020,48.396434,1390.68048
+24.414824,48.396506,1393.0884
+24.414673,48.396563,1394.52096
+24.414632,48.396573,1395.00864
+24.414518,48.396669,1396.4412
+24.414328,48.396780,1398.84912
+24.414153,48.396864,1401.74472
+24.414001,48.396973,1405.09752
+24.413806,48.397068,1407.99312
+24.413645,48.397155,1411.34592
+24.413454,48.397221,1414.7292
+24.413310,48.397340,1417.10664
+24.413240,48.397355,1419.05736
+24.413157,48.397433,1420.9776
+24.413046,48.397481,1422.89784
+24.412979,48.397515,1423.35504
+24.412809,48.397542,1423.35504
+24.412602,48.397542,1422.89784
+24.412305,48.397508,1423.84272
+24.412195,48.397478,1423.35504
+24.412062,48.397470,1424.3304
+24.411900,48.397431,1424.81808
+24.411774,48.397439,1425.76296
+24.411542,48.397425,1428.17088
+24.411406,48.397376,1431.55416
+24.411344,48.397382,1432.98672
+24.411182,48.397378,1436.8272
+24.411125,48.397371,1437.80256
+24.410978,48.397371,1440.66768
+24.410681,48.397392,1441.64304
+24.410529,48.397416,1441.15536
+24.410310,48.397446,1441.64304
+24.410063,48.397479,1441.15536
+24.409782,48.397500,1441.15536
+24.409510,48.397506,1443.0756
+24.409330,48.397576,1444.05096
+24.409113,48.397625,1444.99584
+24.409090,48.397638,1445.48352
+24.408875,48.397715,1446.4284
+24.408653,48.397804,1445.48352
+24.408448,48.397898,1445.9712
+24.408326,48.397936,1445.9712
+24.408148,48.397985,1446.4284
+24.408004,48.398039,1446.91608
+24.407819,48.398085,1447.89144
+24.407645,48.398168,1448.83632
+24.407595,48.398165,1449.81168
+24.407494,48.398182,1449.81168
+24.407476,48.398204,1450.75656
+24.407503,48.398195,1450.29936
+24.407521,48.398174,1451.24424
+24.407520,48.398169,1449.81168
+24.407487,48.398139,1446.4284
+24.407420,48.398069,1443.56328
+24.407317,48.398012,1441.15536
+24.407226,48.397980,1437.80256
+24.407216,48.397971,1434.41928
+24.407219,48.397961,1431.06648
+24.407152,48.397874,1429.60344
+24.406781,48.397652,1427.6832
+24.406597,48.397497,1426.25064
+24.406458,48.397387,1428.17088
+24.406389,48.397332,1428.17088
+24.406352,48.397256,1432.01136
+24.406189,48.397181,1434.90696
+24.406141,48.397142,1438.25976
+24.406042,48.397036,1440.66768
+24.406081,48.396905,1438.74744
+24.406126,48.396753,1436.33952
+24.406174,48.396533,1433.4744
+24.406215,48.396445,1430.09112
+24.406352,48.396214,1427.6832
+24.406432,48.396032,1424.3304
+24.406442,48.395930,1421.4348
+24.406415,48.395805,1418.082
+24.406369,48.395713,1415.1864
+24.406383,48.395629,1411.8336
+24.406278,48.395514,1408.938
+24.406138,48.395394,1405.5852
+24.405980,48.395363,1402.2324
+24.405907,48.395313,1401.25704
+24.405713,48.395267,1398.36144
+24.405709,48.395263,1395.00864
+24.405537,48.395234,1391.65584
+24.405386,48.395171,1388.27256
+24.405326,48.395123,1384.91976
+24.405212,48.395085,1382.51184
+24.405135,48.395058,1379.15904
+24.404996,48.395061,1376.75112
+24.404907,48.395025,1373.85552
+24.404814,48.394972,1370.50272
+24.404840,48.394856,1367.60712
+24.404734,48.394815,1364.742
+24.404707,48.394775,1358.00592
+24.404478,48.394682,1355.11032
+24.404365,48.394614,1353.19008
+24.404223,48.394511,1350.29448
+24.404143,48.394414,1347.42936
+24.404017,48.394290,1344.04608
+24.403982,48.394281,1342.61352
+24.404002,48.394266,1339.26072
+24.403781,48.394010,1336.36512
+24.403706,48.393913,1335.87744
+24.403663,48.393866,1334.44488
+24.403578,48.393813,1332.52464
+24.403394,48.393691,1325.30088
+24.403354,48.393639,1321.94808
+24.403349,48.393626,1321.0032
+24.403240,48.393448,1317.61992
+24.403107,48.393389,1314.26712
+24.402988,48.393311,1311.37152
+24.402880,48.393243,1308.5064
+24.402599,48.393142,1305.12312
+24.402220,48.393049,1299.3624
+24.402077,48.392982,1296.4668
+24.401921,48.392928,1295.03424
+24.401781,48.392870,1291.68144
+24.401737,48.392734,1288.29816
+24.401735,48.392722,1288.29816
+24.401701,48.392632,1284.94536
+24.401680,48.392563,1281.56208
+24.401653,48.392465,1278.69696
+24.401623,48.392397,1275.31368
+24.401494,48.392292,1270.52832
+24.401418,48.392159,1264.27992
+24.401376,48.392134,1262.35968
+24.401351,48.392127,1261.872
+24.401186,48.391936,1258.03152
+24.401081,48.391839,1255.13592
+24.400968,48.391742,1251.78312
+24.400947,48.391638,1248.39984
+24.400840,48.391486,1245.53472
+24.400673,48.391366,1244.55936
+24.400611,48.391338,1245.53472
+24.400495,48.391269,1245.04704
+24.400252,48.391188,1242.15144
+24.400048,48.391108,1238.79864
+24.399901,48.391030,1235.44584
+24.399623,48.390940,1234.95816
+24.399451,48.390912,1235.44584
+24.399373,48.390892,1236.39072
+24.399331,48.390811,1239.74352
+24.399041,48.390543,1243.1268
+24.398990,48.390484,1245.99192
+24.398786,48.390284,1248.88752
+24.398663,48.390193,1252.24032
+24.398246,48.390036,1254.19104
+24.397870,48.390045,1255.13592
+24.397861,48.390050,1255.13592
+24.397777,48.390118,1255.13592
+24.397593,48.390231,1254.64824
+24.397565,48.390262,1254.64824
+24.397393,48.390305,1254.64824
+24.397294,48.390360,1254.64824
+24.397134,48.390446,1254.19104
+24.396861,48.390548,1253.21568
+24.396687,48.390557,1251.78312
+24.396499,48.390619,1251.29544
+24.396240,48.390740,1253.21568
+24.395987,48.390793,1254.64824
+24.395715,48.390820,1254.19104
+24.395498,48.390820,1254.19104
+24.395152,48.390780,1258.03152
+24.394994,48.390797,1254.19104
+24.394806,48.390809,1254.64824
+24.394404,48.390858,1252.24032
+24.394240,48.390883,1251.29544
+24.393928,48.390901,1247.45496
+24.393841,48.390896,1244.55936
+24.393808,48.390872,1241.20656
+24.393768,48.390770,1238.31096
+24.393486,48.390593,1235.44584
+24.393094,48.390445,1233.03792
+24.392879,48.390300,1229.19744
+24.392543,48.390091,1227.7344
+24.392107,48.389994,1226.78952
+24.391824,48.389875,1226.78952
+24.391495,48.389826,1225.32648
+24.391234,48.389865,1223.40624
+24.390946,48.389926,1220.54112
+24.390753,48.389953,1220.54112
+24.390534,48.389998,1217.64552
+24.390293,48.390163,1215.2376
+24.389861,48.390134,1212.37248
+24.389704,48.390074,1211.39712
+24.389260,48.389901,1210.90944
+24.389163,48.389935,1211.39712
+24.389094,48.389971,1214.29272
+24.389005,48.390070,1217.64552
+24.388765,48.390158,1220.54112
+24.388680,48.390162,1223.40624
+24.388665,48.390170,1226.78952
+24.388646,48.390173,1227.24672
+24.388434,48.390170,1229.65464
+24.388058,48.390127,1233.03792
+24.387904,48.390116,1235.44584
+24.385469,48.390488,1238.31096
+24.385167,48.390452,1241.69424
+24.385085,48.390544,1244.55936
+24.384967,48.390607,1247.94264
+24.384920,48.390637,1250.80776
+24.384763,48.390641,1254.19104
+24.384733,48.390665,1257.05616
+24.384562,48.390788,1260.43944
+24.384267,48.390992,1263.30456
+24.383996,48.391183,1263.79224
+24.383870,48.391301,1263.30456
+24.383732,48.391505,1260.43944
+24.383680,48.391652,1258.48872
+24.383619,48.391708,1257.54384
+24.383558,48.391894,1258.48872
+24.383224,48.392332,1258.48872
+24.383170,48.392397,1261.872
+24.383098,48.392526,1264.73712
+24.383171,48.392657,1266.20016
+24.383172,48.392720,1267.63272
+24.383163,48.392730,1270.98552
+24.383108,48.392825,1273.88112
+24.383063,48.392900,1275.31368
+24.382896,48.393007,1276.77672
+24.382723,48.393250,1276.77672
+24.382647,48.393367,1273.88112
+24.382563,48.393433,1272.93624
+24.382499,48.393519,1269.55296
+24.382463,48.393557,1266.68784
+24.382401,48.393641,1263.79224
+24.382409,48.394178,1261.872
+24.382052,48.394515,1260.43944
+24.381549,48.394909,1258.9764
+24.381220,48.395194,1258.03152
+24.380940,48.395405,1258.03152
+24.380644,48.395607,1257.54384
+24.380238,48.395769,1259.46408
+24.379947,48.395904,1261.872
+24.379436,48.395959,1263.30456
+24.379258,48.395962,1264.73712
+24.378974,48.396018,1266.68784
+24.378631,48.395965,1268.1204
+24.378320,48.395938,1269.06528
+24.378049,48.395968,1269.06528
+24.377868,48.395978,1270.04064
+24.377543,48.395958,1270.52832
+24.377348,48.395929,1270.52832
+24.376936,48.395903,1270.04064
+24.376571,48.395929,1269.06528
+24.376016,48.395953,1266.68784
+24.375616,48.396010,1265.2248
+24.375407,48.396052,1264.27992
+24.375355,48.396065,1263.79224
+24.374822,48.396112,1260.89664
+24.374457,48.396177,1259.95176
+24.374125,48.396207,1260.43944
+24.373973,48.396194,1260.89664
+24.373823,48.396222,1261.872
+24.373527,48.396216,1264.27992
+24.373294,48.396223,1267.14504
+24.373011,48.396284,1270.52832
+24.372809,48.396367,1273.39344
+24.372673,48.396460,1274.85648
+24.372431,48.396547,1277.23392
+24.372168,48.396511,1274.85648
+24.371920,48.396361,1271.4732
+24.371832,48.396293,1269.55296
+24.371755,48.396206,1266.68784
+24.371467,48.395982,1263.30456
+24.371239,48.395866,1260.43944
+24.371052,48.395787,1257.05616
+24.370781,48.395692,1254.19104
+24.370523,48.395609,1250.80776
+24.370374,48.395557,1247.94264
+24.370113,48.395483,1244.55936
+24.369906,48.395464,1244.07168
+24.369585,48.395463,1242.15144
+24.369024,48.395386,1241.69424
+24.368667,48.395389,1238.79864
+24.368387,48.395353,1236.39072
+24.368145,48.395332,1233.03792
+24.367963,48.395347,1230.14232
+24.367545,48.395284,1227.24672
+24.366984,48.395319,1226.30184
+24.366963,48.395331,1225.32648
+24.366797,48.395142,1221.97368
+24.366526,48.395025,1219.56576
+24.366329,48.394921,1216.21296
+24.365881,48.394743,1214.74992
+24.365688,48.394515,1211.39712
+24.365666,48.394274,1208.50152
+24.365771,48.394116,1206.12408
+24.365887,48.393794,1203.71616
+24.365862,48.393708,1201.79592
+24.365542,48.393395,1198.41264
+24.365455,48.393100,1195.05984
+24.365321,48.392933,1192.16424
+24.365126,48.392740,1189.29912
+24.364965,48.392693,1187.83608
+24.364776,48.392781,1185.42816
+24.364552,48.392934,1182.56304
+24.364453,48.393070,1181.58768
+24.364033,48.393279,1180.15512
+24.363824,48.393371,1179.17976
+24.363774,48.393341,1179.66744
+24.363506,48.393167,1177.7472
+24.363429,48.393117,1174.88208
+24.362870,48.393137,1172.47416
+24.362647,48.393059,1169.57856
+24.362652,48.393048,1166.68296
+24.362609,48.393024,1163.33016
+24.362478,48.393003,1160.43456
+24.362189,48.392853,1153.72896
+24.362123,48.392775,1150.34568
+24.362051,48.392688,1147.48056
+24.361962,48.392701,1144.58496
+24.361895,48.392661,1141.23216
+24.361909,48.392602,1137.84888
+24.361896,48.392607,1134.49608
+24.361891,48.392603,1131.60048
+24.361653,48.392671,1128.24768
+24.361536,48.392690,1125.35208
+24.361498,48.392690,1121.99928
+24.361328,48.392643,1119.10368
+24.361127,48.392439,1115.75088
+24.360937,48.392169,1113.34296
+24.360719,48.392061,1112.3676
+24.360538,48.391856,1113.34296
+24.360480,48.391652,1114.31832
+24.360188,48.391164,1117.18344
+24.360035,48.390979,1113.83064
+24.359852,48.390740,1114.77552
+24.359616,48.390323,1117.67112
+24.359079,48.389872,1120.56672
+24.358877,48.389784,1122.94416
+24.358823,48.389614,1123.43184
+24.358823,48.389604,1123.91952
+</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
