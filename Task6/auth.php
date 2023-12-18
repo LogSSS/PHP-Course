@@ -11,11 +11,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["register"])) {
     $password = password_hash($_POST["password"], PASSWORD_DEFAULT);
     $role = $_POST["role"];
 
-    $query = "INSERT INTO users (username, password, role) VALUES ('$username', '$password', '$role')";
-    $conn->exec($query);
-    header("Location: index.php");
-}
+    $check_query = "SELECT * FROM users WHERE username='$username'";
+    $check_result = $conn->query($check_query);
 
+    if ($check_result->rowCount() > 0) {
+        echo "Користувач з логіном '$username' вже існує. Оберіть інший логін.";
+        echo '<br><a href="javascript:history.back()">Back</a>';
+    } else {
+        $query = "INSERT INTO users (username, password, role) VALUES ('$username', '$password', '$role')";
+        $conn->exec($query);
+        header("Location: index.php");
+    }
+}
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
     $username = $_POST["username"];
@@ -39,6 +46,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["login"])) {
         }
 
         header("Location: index.php");
+    } else {
+        echo "Не вдалося знайти користувача з вказаним логіном та паролем.";
+        echo '<br><a href="javascript:history.back()">Back</a>';
     }
 }
 
